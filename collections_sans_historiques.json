@@ -1,0 +1,1509 @@
+[{
+  "_id": {
+    "$oid": "63d23ed75cb3d98c6b6ed483"
+  },
+  "id_game": "509658",
+  "name": "Just Chatting",
+  "started_at": "2023-01-26T16:26:25Z",
+  "total_viewer": 340564,
+  "chanel": 3800
+},{
+  "_id": {
+    "$oid": "63d23ed85cb3d98c6b6ed488"
+  },
+  "id_game": "21779",
+  "name": "League of Legends",
+  "started_at": "2023-01-26T21:04:16Z",
+  "total_viewer": 178243,
+  "chanel": 3200
+},{
+  "_id": {
+    "$oid": "63d23ed85cb3d98c6b6ed48b"
+  },
+  "id_game": "491931",
+  "name": "Escape from Tarkov",
+  "started_at": "2023-01-26T16:16:57Z",
+  "total_viewer": 56820,
+  "chanel": 1500
+},{
+  "_id": {
+    "$oid": "63d23ed95cb3d98c6b6ed48d"
+  },
+  "id_game": "516575",
+  "name": "VALORANT",
+  "started_at": "2023-01-26T18:10:04Z",
+  "total_viewer": 58866,
+  "chanel": 5000
+},{
+  "_id": {
+    "$oid": "63d23ed95cb3d98c6b6ed48f"
+  },
+  "id_game": "32982",
+  "name": "Grand Theft Auto V",
+  "started_at": "2023-01-26T18:13:04Z",
+  "total_viewer": 76750,
+  "joueur_acts": 94011,
+  "rank": 8,
+  "chanel": 2900
+},{
+  "_id": {
+    "$oid": "63d23eda5cb3d98c6b6ed493"
+  },
+  "id_game": "29595",
+  "name": "Dota 2",
+  "started_at": "2023-01-26T16:09:05Z",
+  "total_viewer": 63841,
+  "joueur_acts": 399550,
+  "rank": 2,
+  "chanel": 823
+},{
+  "_id": {
+    "$oid": "63d23eda5cb3d98c6b6ed495"
+  },
+  "id_game": "511224",
+  "name": "Apex Legends",
+  "started_at": "2023-01-26T17:16:43Z",
+  "total_viewer": 30237,
+  "chanel": 3700
+},{
+  "_id": {
+    "$oid": "63d23eda5cb3d98c6b6ed497"
+  },
+  "id_game": "18122",
+  "name": "World of Warcraft",
+  "started_at": "2023-01-26T16:00:13Z",
+  "total_viewer": 25540,
+  "chanel": 1600
+},{
+  "_id": {
+    "$oid": "63d23edb5cb3d98c6b6ed49a"
+  },
+  "id_game": "512710",
+  "name": "Call of Duty: Warzone",
+  "started_at": "2023-01-26T17:00:26Z",
+  "total_viewer": 56540,
+  "chanel": 2000
+},{
+  "_id": {
+    "$oid": "63d23edb5cb3d98c6b6ed49c"
+  },
+  "id_game": "33214",
+  "name": "Fortnite",
+  "started_at": "2023-01-26T02:49:33Z",
+  "total_viewer": 25557,
+  "chanel": 5200
+},{
+  "_id": {
+    "$oid": "63d23edb5cb3d98c6b6ed49e"
+  },
+  "id_game": "26936",
+  "name": "Music",
+  "started_at": "2023-01-26T12:30:09Z",
+  "total_viewer": 6949,
+  "chanel": 994
+},{
+  "_id": {
+    "$oid": "63d23edc5cb3d98c6b6ed4a2"
+  },
+  "id_game": "24241",
+  "name": "Final Fantasy XIV Online",
+  "started_at": "2023-01-26T17:00:14Z",
+  "total_viewer": 30114,
+  "chanel": 523
+},{
+  "_id": {
+    "$oid": "63d23edc5cb3d98c6b6ed4a4"
+  },
+  "id_game": "27471",
+  "name": "Minecraft",
+  "started_at": "2023-01-26T18:40:31Z",
+  "total_viewer": 212573,
+  "chanel": 2400
+},{
+  "_id": {
+    "$oid": "63d23edc5cb3d98c6b6ed4a6"
+  },
+  "id_game": "491487",
+  "name": "Dead by Daylight",
+  "started_at": "2023-01-26T17:07:56Z",
+  "total_viewer": 9361,
+  "joueur_acts": 42767,
+  "rank": 23,
+  "chanel": 1500
+},{
+  "_id": {
+    "$oid": "63d23edd5cb3d98c6b6ed4a8"
+  },
+  "id_game": "29452",
+  "name": "Virtual Casino",
+  "started_at": "2023-01-26T19:26:29Z",
+  "total_viewer": 24537
+},{
+  "_id": {
+    "$oid": "63d23edd5cb3d98c6b6ed4aa"
+  },
+  "id_game": "513143",
+  "name": "Teamfight Tactics",
+  "started_at": "2023-01-26T20:18:47Z",
+  "total_viewer": 21455,
+  "chanel": 308
+},{
+  "_id": {
+    "$oid": "63d23ede5cb3d98c6b6ed4ac"
+  },
+  "id_game": "138585",
+  "name": "Hearthstone",
+  "started_at": "2023-01-26T16:58:05Z",
+  "total_viewer": 24820,
+  "chanel": 167
+},{
+  "_id": {
+    "$oid": "63d23ede5cb3d98c6b6ed4ae"
+  },
+  "id_game": "1745202732",
+  "name": "FIFA 23",
+  "started_at": "2023-01-26T15:54:02Z",
+  "total_viewer": 133165,
+  "chanel": 1200
+},{
+  "_id": {
+    "$oid": "63d23edf5cb3d98c6b6ed4b0"
+  },
+  "id_game": "515025",
+  "name": "Overwatch 2",
+  "started_at": "2023-01-26T19:50:34Z",
+  "total_viewer": 13078,
+  "chanel": 1800
+},{
+  "_id": {
+    "$oid": "63d23edf5cb3d98c6b6ed4b2"
+  },
+  "id_game": "670867987",
+  "name": "Pokémon Scarlet/Violet",
+  "started_at": "2023-01-26T19:23:13Z",
+  "total_viewer": 8007,
+  "chanel": 333
+},{
+  "_id": {
+    "$oid": "63d23ee05cb3d98c6b6ed4b4"
+  },
+  "id_game": "32399",
+  "name": "Counter-Strike: Global Offensive",
+  "started_at": "2023-01-26T20:40:07Z",
+  "total_viewer": 77858,
+  "joueur_acts": 768109,
+  "rank": 1,
+  "chanel": 1100
+},{
+  "_id": {
+    "$oid": "63d23ee05cb3d98c6b6ed4b7"
+  },
+  "id_game": "490100",
+  "name": "Lost Ark",
+  "started_at": "2023-01-26T13:32:14Z",
+  "total_viewer": 7606,
+  "joueur_acts": 145231,
+  "rank": 3,
+  "chanel": 328
+},{
+  "_id": {
+    "$oid": "63d23ee15cb3d98c6b6ed4b9"
+  },
+  "id_game": "513181",
+  "name": "Genshin Impact",
+  "started_at": "2023-01-26T19:00:45Z",
+  "total_viewer": 11494,
+  "chanel": 2100
+},{
+  "_id": {
+    "$oid": "63d23ee15cb3d98c6b6ed4bb"
+  },
+  "id_game": "509659",
+  "name": "ASMR",
+  "started_at": "2023-01-25T04:15:48Z",
+  "total_viewer": 14114,
+  "chanel": 142
+},{
+  "_id": {
+    "$oid": "63d23ee25cb3d98c6b6ed4bd"
+  },
+  "id_game": "1678052513",
+  "name": "Call of Duty: Modern Warfare II",
+  "started_at": "2023-01-26T21:01:03Z",
+  "total_viewer": 19915,
+  "chanel": 4100
+},{
+  "_id": {
+    "$oid": "63d23ee25cb3d98c6b6ed4c2"
+  },
+  "id_game": "518012",
+  "name": "Forspoken",
+  "started_at": "2023-01-26T20:15:06Z",
+  "total_viewer": 36380,
+  "chanel": 197
+},{
+  "_id": {
+    "$oid": "63d23ee35cb3d98c6b6ed4c5"
+  },
+  "id_game": "512953",
+  "name": "Elden Ring",
+  "started_at": "2023-01-26T18:03:07Z",
+  "total_viewer": 10699,
+  "chanel": 809
+},{
+  "_id": {
+    "$oid": "63d23ee35cb3d98c6b6ed4c7"
+  },
+  "id_game": "498566",
+  "name": "Slots",
+  "started_at": "2023-01-26T17:05:09Z",
+  "total_viewer": 17806
+},{
+  "_id": {
+    "$oid": "63d23ee35cb3d98c6b6ed4c9"
+  },
+  "id_game": "506415",
+  "name": "Sekiro: Shadows Die Twice",
+  "started_at": "2023-01-26T14:46:44Z",
+  "total_viewer": 6873
+},{
+  "_id": {
+    "$oid": "63d23ee45cb3d98c6b6ed4cd"
+  },
+  "id_game": "115977",
+  "name": "The Witcher 3: Wild Hunt",
+  "started_at": "2023-01-26T15:05:35Z",
+  "total_viewer": 3002,
+  "chanel": 160
+},{
+  "_id": {
+    "$oid": "63d23ee45cb3d98c6b6ed4d0"
+  },
+  "id_game": "509660",
+  "name": "Art",
+  "started_at": "2023-01-26T12:27:25Z",
+  "total_viewer": 4646,
+  "chanel": 615
+},{
+  "_id": {
+    "$oid": "63d23ee55cb3d98c6b6ed4d2"
+  },
+  "id_game": "1242184979",
+  "name": "Fire Emblem Engage",
+  "started_at": "2023-01-26T20:02:58Z",
+  "total_viewer": 2194,
+  "chanel": 308
+},{
+  "_id": {
+    "$oid": "63d23ee55cb3d98c6b6ed4d6"
+  },
+  "id_game": "1158884259",
+  "name": "Splatoon 3",
+  "started_at": "2023-01-26T06:57:07Z",
+  "total_viewer": 6414
+},{
+  "_id": {
+    "$oid": "63d23ee65cb3d98c6b6ed4d8"
+  },
+  "id_game": "518203",
+  "name": "Sports",
+  "started_at": "2023-01-26T11:29:05Z",
+  "total_viewer": 18398,
+  "chanel": 125
+},{
+  "_id": {
+    "$oid": "63d23ee65cb3d98c6b6ed4da"
+  },
+  "id_game": "498592",
+  "name": "I'm Only Sleeping",
+  "started_at": "2023-01-26T10:17:15Z",
+  "total_viewer": 6519,
+  "chanel": 180
+},{
+  "_id": {
+    "$oid": "63d23ee75cb3d98c6b6ed4dc"
+  },
+  "id_game": "459931",
+  "name": "Old School RuneScape",
+  "started_at": "2023-01-26T16:38:05Z",
+  "total_viewer": 9261,
+  "chanel": 164
+},{
+  "_id": {
+    "$oid": "63d23ee75cb3d98c6b6ed4de"
+  },
+  "id_game": "30921",
+  "name": "Rocket League",
+  "started_at": "2023-01-26T19:28:59Z",
+  "total_viewer": 8443,
+  "chanel": 1100
+},{
+  "_id": {
+    "$oid": "63d23ee85cb3d98c6b6ed4e0"
+  },
+  "id_game": "749092120",
+  "name": "Wartales",
+  "started_at": "2023-01-26T04:42:39Z",
+  "total_viewer": 5210
+},{
+  "_id": {
+    "$oid": "63d23ee85cb3d98c6b6ed4e2"
+  },
+  "id_game": "417528",
+  "name": "Albion Online",
+  "started_at": "2023-01-26T17:02:18Z",
+  "total_viewer": 7933
+},{
+  "_id": {
+    "$oid": "63d23ee95cb3d98c6b6ed4e4"
+  },
+  "id_game": "497057",
+  "name": "Destiny 2",
+  "started_at": "2023-01-26T17:41:09Z",
+  "total_viewer": 5111,
+  "joueur_acts": 72224,
+  "rank": 11,
+  "chanel": 598
+},{
+  "_id": {
+    "$oid": "63d23ee95cb3d98c6b6ed4e6"
+  },
+  "id_game": "509672",
+  "name": "Travel & Outdoors",
+  "started_at": "2023-01-26T17:40:16Z",
+  "total_viewer": 3880,
+  "chanel": 100
+},{
+  "_id": {
+    "$oid": "63d23ee95cb3d98c6b6ed4e8"
+  },
+  "id_game": "1892146801",
+  "name": "Hi-Fi Rush",
+  "started_at": "2023-01-26T20:01:45Z",
+  "total_viewer": 5698
+},{
+  "_id": {
+    "$oid": "63d23ee95cb3d98c6b6ed4ea"
+  },
+  "id_game": "6959",
+  "name": "Eco",
+  "started_at": "2023-01-26T10:59:36Z",
+  "total_viewer": 1957
+},{
+  "_id": {
+    "$oid": "63d23eea5cb3d98c6b6ed4ec"
+  },
+  "id_game": "32507",
+  "name": "SMITE",
+  "started_at": "2023-01-26T15:13:10Z",
+  "total_viewer": 9065,
+  "chanel": 235
+},{
+  "_id": {
+    "$oid": "63d23eea5cb3d98c6b6ed4ef"
+  },
+  "id_game": "493057",
+  "name": "PUBG: BATTLEGROUNDS",
+  "started_at": "2023-01-26T20:28:57Z",
+  "total_viewer": 5112,
+  "joueur_acts": 136793,
+  "rank": 4,
+  "chanel": 601
+},{
+  "_id": {
+    "$oid": "63d23eeb5cb3d98c6b6ed4f1"
+  },
+  "id_game": "29307",
+  "name": "Path of Exile",
+  "started_at": "2023-01-26T16:05:36Z",
+  "total_viewer": 7772,
+  "joueur_acts": 35967,
+  "rank": 28,
+  "chanel": 169
+},{
+  "_id": {
+    "$oid": "63d23eeb5cb3d98c6b6ed4f3"
+  },
+  "id_game": "460630",
+  "name": "Tom Clancy's Rainbow Six Siege",
+  "started_at": "2023-01-26T20:27:55Z",
+  "total_viewer": 2600,
+  "chanel": 944
+},{
+  "_id": {
+    "$oid": "63d23eeb5cb3d98c6b6ed4f5"
+  },
+  "id_game": "65632",
+  "name": "DayZ",
+  "started_at": "2023-01-26T17:27:39Z",
+  "total_viewer": 9875,
+  "joueur_acts": 44797,
+  "rank": 20,
+  "chanel": 310
+},{
+  "_id": {
+    "$oid": "63d23eec5cb3d98c6b6ed4f7"
+  },
+  "id_game": "743",
+  "name": "Chess",
+  "started_at": "2023-01-26T18:08:06Z",
+  "total_viewer": 31213
+},{
+  "_id": {
+    "$oid": "63d23eec5cb3d98c6b6ed4fa"
+  },
+  "id_game": "27284",
+  "name": "Retro",
+  "started_at": "2023-01-26T05:07:10Z",
+  "total_viewer": 3927,
+  "chanel": 224
+},{
+  "_id": {
+    "$oid": "63d23eec5cb3d98c6b6ed4fe"
+  },
+  "id_game": "772421245",
+  "name": "NBA 2K23",
+  "started_at": "2023-01-26T15:49:12Z",
+  "total_viewer": 3072,
+  "joueur_acts": 13500,
+  "rank": 76,
+  "chanel": 805
+},{
+  "_id": {
+    "$oid": "63d23eec5cb3d98c6b6ed500"
+  },
+  "id_game": "272263131",
+  "name": "Animals, Aquariums, and Zoos",
+  "started_at": "2023-01-26T00:28:51Z",
+  "total_viewer": 3545,
+  "chanel": 189
+},{
+  "_id": {
+    "$oid": "63d23eed5cb3d98c6b6ed503"
+  },
+  "id_game": "2692",
+  "name": "Super Mario 64",
+  "started_at": "2023-01-26T07:57:33Z",
+  "total_viewer": 3355
+},{
+  "_id": {
+    "$oid": "63d23eed5cb3d98c6b6ed505"
+  },
+  "id_game": "386821",
+  "name": "Black Desert",
+  "started_at": "2023-01-26T06:00:56Z",
+  "total_viewer": 2645,
+  "joueur_acts": 22019,
+  "rank": 47,
+  "chanel": 210
+},{
+  "_id": {
+    "$oid": "63d23eed5cb3d98c6b6ed507"
+  },
+  "id_game": "263490",
+  "name": "Rust",
+  "started_at": "2023-01-26T14:56:24Z",
+  "total_viewer": 29315,
+  "joueur_acts": 107093,
+  "rank": 7,
+  "chanel": 444
+},{
+  "_id": {
+    "$oid": "63d23eee5cb3d98c6b6ed50b"
+  },
+  "id_game": "31339",
+  "name": "Project Zomboid",
+  "started_at": "2023-01-26T10:13:30Z",
+  "total_viewer": 3223,
+  "joueur_acts": 32027,
+  "rank": 32,
+  "chanel": 165
+},{
+  "_id": {
+    "$oid": "63d23eee5cb3d98c6b6ed50d"
+  },
+  "id_game": "493959",
+  "name": "Red Dead Redemption 2",
+  "started_at": "2023-01-26T18:32:15Z",
+  "total_viewer": 4658,
+  "joueur_acts": 38390,
+  "rank": 25,
+  "chanel": 444
+},{
+  "_id": {
+    "$oid": "63d23eee5cb3d98c6b6ed510"
+  },
+  "id_game": "27546",
+  "name": "World of Tanks",
+  "started_at": "2023-01-26T20:00:55Z",
+  "total_viewer": 7202,
+  "chanel": 202
+},{
+  "_id": {
+    "$oid": "63d23eef5cb3d98c6b6ed512"
+  },
+  "id_game": "490292",
+  "name": "Dark Souls III",
+  "started_at": "2023-01-26T17:53:54Z",
+  "total_viewer": 3209,
+  "chanel": 99
+},{
+  "_id": {
+    "$oid": "63d23eef5cb3d98c6b6ed514"
+  },
+  "id_game": "515214",
+  "name": "Politics",
+  "started_at": "2023-01-26T01:45:20Z",
+  "total_viewer": 2943
+},{
+  "_id": {
+    "$oid": "63d23eef5cb3d98c6b6ed516"
+  },
+  "id_game": "19976",
+  "name": "MapleStory",
+  "started_at": "2023-01-26T13:16:33Z",
+  "total_viewer": 4602
+},{
+  "_id": {
+    "$oid": "63d23ef05cb3d98c6b6ed51a"
+  },
+  "id_game": "12839",
+  "name": "Heroes of Might and Magic III: The Restoration of Erathia",
+  "started_at": "2023-01-26T16:19:56Z",
+  "total_viewer": 8729
+},{
+  "_id": {
+    "$oid": "63d23ef05cb3d98c6b6ed51c"
+  },
+  "id_game": "862021340",
+  "name": "Madden NFL 23",
+  "started_at": "2023-01-26T16:28:20Z",
+  "total_viewer": 2620,
+  "chanel": 625
+},{
+  "_id": {
+    "$oid": "63d23ef05cb3d98c6b6ed51e"
+  },
+  "id_game": "490377",
+  "name": "Sea of Thieves",
+  "started_at": "2023-01-26T20:25:21Z",
+  "total_viewer": 18192,
+  "joueur_acts": 12278,
+  "rank": 78,
+  "chanel": 297
+},{
+  "_id": {
+    "$oid": "63d23ef05cb3d98c6b6ed520"
+  },
+  "id_game": "488190",
+  "name": "Poker",
+  "started_at": "2023-01-26T18:55:47Z",
+  "total_viewer": 28572
+},{
+  "_id": {
+    "$oid": "63d23ef15cb3d98c6b6ed522"
+  },
+  "id_game": "512746",
+  "name": "War by Grow Games",
+  "started_at": "2023-01-25T13:51:04Z",
+  "total_viewer": 2162
+},{
+  "_id": {
+    "$oid": "63d23ef15cb3d98c6b6ed524"
+  },
+  "id_game": "515160",
+  "name": "KartRider: Drift",
+  "started_at": "2023-01-26T14:01:32Z",
+  "total_viewer": 3919
+},{
+  "_id": {
+    "$oid": "63d23ef15cb3d98c6b6ed526"
+  },
+  "id_game": "1702114392",
+  "name": "Larcin Lazer",
+  "started_at": "2023-01-26T07:54:52Z",
+  "total_viewer": 2009
+},{
+  "_id": {
+    "$oid": "63d23ef15cb3d98c6b6ed528"
+  },
+  "id_game": "1743359147",
+  "name": "Marvel Snap",
+  "started_at": "2023-01-26T16:09:20Z",
+  "total_viewer": 4030
+},{
+  "_id": {
+    "$oid": "63d23ef25cb3d98c6b6ed52a"
+  },
+  "id_game": "510056",
+  "name": "Epic Seven",
+  "started_at": "2023-01-26T07:18:49Z",
+  "total_viewer": 1841
+},{
+  "_id": {
+    "$oid": "63d23ef25cb3d98c6b6ed52c"
+  },
+  "id_game": "1414860634",
+  "name": "The Binding of Isaac: Repentance",
+  "started_at": "2023-01-26T20:15:09Z",
+  "total_viewer": 4999
+},{
+  "_id": {
+    "$oid": "63d23ef25cb3d98c6b6ed52e"
+  },
+  "id_game": "29056",
+  "name": "Knight Online",
+  "started_at": "2023-01-26T20:33:30Z",
+  "total_viewer": 4476
+},{
+  "_id": {
+    "$oid": "63d23ef35cb3d98c6b6ed530"
+  },
+  "id_game": "508402",
+  "name": "Live",
+  "started_at": "2023-01-24T13:24:27Z",
+  "total_viewer": 1967
+},{
+  "_id": {
+    "$oid": "63d23ef35cb3d98c6b6ed532"
+  },
+  "id_game": "508455",
+  "name": "Valheim",
+  "started_at": "2023-01-26T18:11:03Z",
+  "total_viewer": 15586,
+  "joueur_acts": 57093,
+  "rank": 16,
+  "chanel": 238
+},{
+  "_id": {
+    "$oid": "63d23ef35cb3d98c6b6ed534"
+  },
+  "id_game": "500188",
+  "name": "Hunt: Showdown",
+  "started_at": "2023-01-26T10:13:55Z",
+  "total_viewer": 3204,
+  "joueur_acts": 22955,
+  "rank": 43,
+  "chanel": 246
+},{
+  "_id": {
+    "$oid": "63d23ef35cb3d98c6b6ed536"
+  },
+  "id_game": "2046821115",
+  "name": "The Simpsons",
+  "started_at": "2023-01-26T08:41:55Z",
+  "total_viewer": 1715
+},{
+  "_id": {
+    "$oid": "63d23ef45cb3d98c6b6ed538"
+  },
+  "id_game": "417752",
+  "name": "Talk Shows & Podcasts",
+  "started_at": "2023-01-26T21:01:22Z",
+  "total_viewer": 8792,
+  "chanel": 214
+},{
+  "_id": {
+    "$oid": "63d23ef45cb3d98c6b6ed53a"
+  },
+  "id_game": "2748",
+  "name": "Magic: The Gathering",
+  "started_at": "2023-01-26T19:34:35Z",
+  "total_viewer": 3515
+},{
+  "_id": {
+    "$oid": "63d23ef45cb3d98c6b6ed53d"
+  },
+  "id_game": "1115711128",
+  "name": "PlateUp!",
+  "started_at": "2023-01-26T04:56:13Z",
+  "total_viewer": 1583
+},{
+  "_id": {
+    "$oid": "63d23ef45cb3d98c6b6ed53f"
+  },
+  "id_game": "65706",
+  "name": "Dead Space 3",
+  "started_at": "2023-01-26T07:28:11Z",
+  "total_viewer": 1620
+},{
+  "_id": {
+    "$oid": "63d23ef55cb3d98c6b6ed541"
+  },
+  "id_game": "1275666892",
+  "name": "Monster Hunter Rise",
+  "started_at": "2023-01-26T08:53:59Z",
+  "total_viewer": 545,
+  "chanel": 699
+},{
+  "_id": {
+    "$oid": "63d23ef55cb3d98c6b6ed543"
+  },
+  "id_game": "95998382",
+  "name": "Blue Archive",
+  "started_at": "2023-01-26T08:19:47Z",
+  "total_viewer": 1563
+},{
+  "_id": {
+    "$oid": "63d23ef55cb3d98c6b6ed545"
+  },
+  "id_game": "506416",
+  "name": "Halo Infinite",
+  "started_at": "2023-01-26T04:13:25Z",
+  "total_viewer": 1316,
+  "chanel": 138
+},{
+  "_id": {
+    "$oid": "63d23ef55cb3d98c6b6ed547"
+  },
+  "id_game": "518184",
+  "name": "Phasmophobia",
+  "started_at": "2023-01-26T18:29:24Z",
+  "total_viewer": 2676,
+  "joueur_acts": 17640,
+  "rank": 61,
+  "chanel": 284
+},{
+  "_id": {
+    "$oid": "63d23ef55cb3d98c6b6ed549"
+  },
+  "id_game": "941530474",
+  "name": "Mario Kart 8 Deluxe",
+  "started_at": "2023-01-26T16:28:14Z",
+  "total_viewer": 3959
+},{
+  "_id": {
+    "$oid": "63d23ef65cb3d98c6b6ed54b"
+  },
+  "id_game": "1889931016",
+  "name": "Super Psycho Baseball",
+  "started_at": "2023-01-26T05:21:20Z",
+  "total_viewer": 1446
+},{
+  "_id": {
+    "$oid": "63d23ef65cb3d98c6b6ed54f"
+  },
+  "id_game": "499003",
+  "name": "VRChat",
+  "started_at": "2023-01-26T15:58:58Z",
+  "total_viewer": 3400,
+  "joueur_acts": 18600,
+  "rank": 56,
+  "chanel": 101
+},{
+  "_id": {
+    "$oid": "63d23ef65cb3d98c6b6ed552"
+  },
+  "id_game": "19619",
+  "name": "Tibia",
+  "started_at": "2023-01-26T17:02:10Z",
+  "total_viewer": 4750,
+  "chanel": 183
+},{
+  "_id": {
+    "$oid": "63d23ef75cb3d98c6b6ed555"
+  },
+  "id_game": "25130",
+  "name": "Persona 3 Portable",
+  "started_at": "2023-01-26T08:32:13Z",
+  "total_viewer": 1318
+},{
+  "_id": {
+    "$oid": "63d23ef75cb3d98c6b6ed557"
+  },
+  "id_game": "493597",
+  "name": "New World",
+  "started_at": "2023-01-26T14:01:21Z",
+  "total_viewer": 4089,
+  "joueur_acts": 29282,
+  "rank": 37,
+  "chanel": 121
+},{
+  "_id": {
+    "$oid": "63d23ef75cb3d98c6b6ed559"
+  },
+  "id_game": "23020",
+  "name": "Roblox",
+  "started_at": "2023-01-26T18:13:42Z",
+  "total_viewer": 2448,
+  "chanel": 571
+},{
+  "_id": {
+    "$oid": "63d23ef85cb3d98c6b6ed55c"
+  },
+  "id_game": "14528",
+  "name": "Resident Evil Survivor",
+  "started_at": "2023-01-26T05:41:52Z",
+  "total_viewer": 1282
+},{
+  "_id": {
+    "$oid": "63d23ef85cb3d98c6b6ed55f"
+  },
+  "id_game": "490422",
+  "name": "StarCraft II",
+  "started_at": "2023-01-26T12:52:34Z",
+  "total_viewer": 2795
+},{
+  "_id": {
+    "$oid": "63d23ef85cb3d98c6b6ed561"
+  },
+  "id_game": "491168",
+  "name": "Clash Royale",
+  "started_at": "2023-01-26T19:17:48Z",
+  "total_viewer": 5752
+},{
+  "_id": {
+    "$oid": "63d23ef85cb3d98c6b6ed564"
+  },
+  "id_game": "32502",
+  "name": "World of Warships",
+  "started_at": "2023-01-26T18:59:46Z",
+  "total_viewer": 6992
+},{
+  "_id": {
+    "$oid": "63d23ef95cb3d98c6b6ed566"
+  },
+  "id_game": "504463",
+  "name": "Tom Clancy's The Division 2",
+  "started_at": "2023-01-26T07:00:37Z",
+  "total_viewer": 1004,
+  "chanel": 154
+},{
+  "_id": {
+    "$oid": "63d23ef95cb3d98c6b6ed568"
+  },
+  "id_game": "23857",
+  "name": "Pokémon HeartGold/SoulSilver",
+  "started_at": "2023-01-26T04:21:31Z",
+  "total_viewer": 1167
+},{
+  "_id": {
+    "$oid": "63d23ef95cb3d98c6b6ed56a"
+  },
+  "id_game": "461067",
+  "name": "Tekken 7",
+  "started_at": "2023-01-26T08:29:35Z",
+  "total_viewer": 934
+},{
+  "_id": {
+    "$oid": "63d23ef95cb3d98c6b6ed56c"
+  },
+  "id_game": "512980",
+  "name": "Fall Guys",
+  "started_at": "2023-01-26T17:00:07Z",
+  "total_viewer": 8705,
+  "chanel": 225
+},{
+  "_id": {
+    "$oid": "63d23efa5cb3d98c6b6ed570"
+  },
+  "id_game": "1489123013",
+  "name": "Night Walker",
+  "started_at": "2023-01-26T11:22:21Z",
+  "total_viewer": 23281
+},{
+  "_id": {
+    "$oid": "63d23f885cb3d98c6b6ed677"
+  },
+  "id_game": "271304",
+  "name": "7 Days to Die",
+  "started_at": "2023-01-26T04:55:40Z",
+  "total_viewer": 821,
+  "joueur_acts": 27013,
+  "rank": 39,
+  "chanel": 185
+},{
+  "_id": {
+    "$oid": "63d2885a5cb3d98c6b70599c"
+  },
+  "id_game": "1047410718",
+  "name": "Football Manager 2023",
+  "started_at": "2023-01-26T17:30:02Z",
+  "total_viewer": 5427,
+  "joueur_acts": 69344,
+  "rank": 12
+},{
+  "_id": {
+    "$oid": "63d2885b5cb3d98c6b7059a0"
+  },
+  "id_game": "512708",
+  "name": "Mahjong Soul",
+  "started_at": "2023-01-26T11:49:54Z",
+  "total_viewer": 2942
+},{
+  "_id": {
+    "$oid": "63d2885c5cb3d98c6b7059a3"
+  },
+  "id_game": "6187",
+  "name": "Portal",
+  "started_at": "2023-01-26T16:20:26Z",
+  "total_viewer": 8557
+},{
+  "_id": {
+    "$oid": "63d2885d5cb3d98c6b7059a9"
+  },
+  "id_game": "491028",
+  "name": "Wurm Unlimited",
+  "started_at": "2023-01-26T12:38:32Z",
+  "total_viewer": 6630
+},{
+  "_id": {
+    "$oid": "63d288625cb3d98c6b7059bb"
+  },
+  "id_game": "489776",
+  "name": "Fallout 4",
+  "started_at": "2023-01-26T11:31:26Z",
+  "total_viewer": 4846,
+  "joueur_acts": 18741,
+  "rank": 54
+},{
+  "_id": {
+    "$oid": "63d288665cb3d98c6b7059c8"
+  },
+  "id_game": "517159",
+  "name": "Guilty Gear: Strive",
+  "started_at": "2023-01-26T13:50:47Z",
+  "total_viewer": 4056
+},{
+  "_id": {
+    "$oid": "63d288675cb3d98c6b7059ce"
+  },
+  "id_game": "460090",
+  "name": "Subnautica",
+  "started_at": "2023-01-26T19:59:35Z",
+  "total_viewer": 4054
+},{
+  "_id": {
+    "$oid": "63d288685cb3d98c6b7059d3"
+  },
+  "id_game": "102007682",
+  "name": "God of War Ragnarök",
+  "started_at": "2023-01-26T17:24:26Z",
+  "total_viewer": 6610,
+  "chanel": 283
+},{
+  "_id": {
+    "$oid": "63d288695cb3d98c6b7059d6"
+  },
+  "id_game": "1119642287",
+  "name": "Yu-Gi-Oh! Master Duel",
+  "started_at": "2023-01-26T13:40:12Z",
+  "total_viewer": 3121,
+  "joueur_acts": 14683,
+  "rank": 73
+},{
+  "_id": {
+    "$oid": "63d2886a5cb3d98c6b7059d8"
+  },
+  "id_game": "1557946295",
+  "name": "Warlander",
+  "started_at": "2023-01-26T14:45:43Z",
+  "total_viewer": 4117
+},{
+  "_id": {
+    "$oid": "63d2886a5cb3d98c6b7059da"
+  },
+  "id_game": "516867",
+  "name": "Clubhouse Games: 51 Worldwide Classics",
+  "started_at": "2023-01-26T11:37:47Z",
+  "total_viewer": 3536
+},{
+  "_id": {
+    "$oid": "63d2886b5cb3d98c6b7059dd"
+  },
+  "id_game": "511554",
+  "name": "Arknights",
+  "started_at": "2023-01-26T12:45:30Z",
+  "total_viewer": 3334
+},{
+  "_id": {
+    "$oid": "63d2886d5cb3d98c6b7059e5"
+  },
+  "id_game": "510590",
+  "name": "Hades",
+  "started_at": "2023-01-26T12:37:15Z",
+  "total_viewer": 2957
+},{
+  "_id": {
+    "$oid": "63d2886d5cb3d98c6b7059e7"
+  },
+  "id_game": "19357",
+  "name": "Guild Wars 2",
+  "started_at": "2023-01-26T07:31:50Z",
+  "total_viewer": 2927
+},{
+  "_id": {
+    "$oid": "63d2886e5cb3d98c6b7059eb"
+  },
+  "id_game": "6521",
+  "name": "Grand Theft Auto: San Andreas",
+  "started_at": "2023-01-26T13:25:15Z",
+  "total_viewer": 2903
+},{
+  "_id": {
+    "$oid": "63d2886f5cb3d98c6b7059ee"
+  },
+  "id_game": "499634",
+  "name": "Crypto",
+  "started_at": "2023-01-26T09:37:41Z",
+  "total_viewer": 2863
+},{
+  "_id": {
+    "$oid": "63d288705cb3d98c6b7059f1"
+  },
+  "id_game": "13332",
+  "name": "Pokémon FireRed/LeafGreen",
+  "started_at": "2023-01-26T20:10:35Z",
+  "total_viewer": 3266
+},{
+  "_id": {
+    "$oid": "63d288715cb3d98c6b7059f5"
+  },
+  "id_game": "1366210635",
+  "name": "Ranch Simulator",
+  "started_at": "2023-01-26T11:53:16Z",
+  "total_viewer": 3007
+},{
+  "_id": {
+    "$oid": "63d288715cb3d98c6b7059f9"
+  },
+  "id_game": "66082",
+  "name": "Games + Demos",
+  "started_at": "2023-01-26T11:09:20Z",
+  "total_viewer": 1807,
+  "chanel": 417
+},{
+  "_id": {
+    "$oid": "63d288725cb3d98c6b7059fb"
+  },
+  "id_game": "1469308723",
+  "name": "Software and Game Development",
+  "started_at": "2023-01-26T15:03:24Z",
+  "total_viewer": 2584,
+  "chanel": 100
+},{
+  "_id": {
+    "$oid": "63d288725cb3d98c6b7059ff"
+  },
+  "id_game": "504798",
+  "name": "FIFA Online 4",
+  "started_at": "2023-01-26T13:59:58Z",
+  "total_viewer": 2965
+},{
+  "_id": {
+    "$oid": "63d288735cb3d98c6b705a03"
+  },
+  "id_game": "13389",
+  "name": "Age of Empires II",
+  "started_at": "2023-01-26T16:45:18Z",
+  "total_viewer": 5522
+},{
+  "_id": {
+    "$oid": "63d288745cb3d98c6b705a05"
+  },
+  "id_game": "489635",
+  "name": "Ark: Survival Evolved",
+  "started_at": "2023-01-26T11:27:53Z",
+  "total_viewer": 1477,
+  "chanel": 323
+},{
+  "_id": {
+    "$oid": "63d288745cb3d98c6b705a07"
+  },
+  "id_game": "514858",
+  "name": "League of Legends: Wild Rift",
+  "started_at": "2023-01-26T13:59:45Z",
+  "total_viewer": 1796,
+  "chanel": 111
+},{
+  "_id": {
+    "$oid": "63d288755cb3d98c6b705a0d"
+  },
+  "id_game": "2095584048",
+  "name": "The Bad Kids",
+  "started_at": "2023-01-26T11:34:38Z",
+  "total_viewer": 1790
+},{
+  "_id": {
+    "$oid": "63d2a9cc5cb3d98c6b7085fe"
+  },
+  "id_game": "1248908445",
+  "name": "The Stubborn Of WakGood",
+  "started_at": "2023-01-26T07:53:39Z",
+  "total_viewer": 18871
+},{
+  "_id": {
+    "$oid": "63d2a9ce5cb3d98c6b708606"
+  },
+  "id_game": "33180",
+  "name": "The Last of Us",
+  "started_at": "2023-01-26T15:20:24Z",
+  "total_viewer": 12855,
+  "chanel": 104
+},{
+  "_id": {
+    "$oid": "63d2a9cf5cb3d98c6b70860c"
+  },
+  "id_game": "518011",
+  "name": "HITMAN 3",
+  "started_at": "2023-01-26T18:00:55Z",
+  "total_viewer": 6787
+},{
+  "_id": {
+    "$oid": "63d2a9cf5cb3d98c6b70860e"
+  },
+  "id_game": "11989",
+  "name": "StarCraft",
+  "started_at": "2023-01-26T15:48:23Z",
+  "total_viewer": 8598
+},{
+  "_id": {
+    "$oid": "63d2a9d35cb3d98c6b708620"
+  },
+  "id_game": "2115882958",
+  "name": "Reading Fun",
+  "started_at": "2023-01-26T16:25:51Z",
+  "total_viewer": 7744
+},{
+  "_id": {
+    "$oid": "63d2a9d35cb3d98c6b708622"
+  },
+  "id_game": "7022",
+  "name": "The Forest",
+  "started_at": "2023-01-26T14:19:49Z",
+  "total_viewer": 6662,
+  "joueur_acts": 15602,
+  "rank": 68,
+  "chanel": 155
+},{
+  "_id": {
+    "$oid": "63d2a9d55cb3d98c6b708629"
+  },
+  "id_game": "1818",
+  "name": "Gothic",
+  "started_at": "2023-01-26T20:53:20Z",
+  "total_viewer": 7160
+},{
+  "_id": {
+    "$oid": "63d2a9d55cb3d98c6b70862c"
+  },
+  "id_game": "65654",
+  "name": "The Elder Scrolls Online",
+  "started_at": "2023-01-26T18:53:18Z",
+  "total_viewer": 4323,
+  "chanel": 98
+},{
+  "_id": {
+    "$oid": "63d2a9d65cb3d98c6b708638"
+  },
+  "id_game": "16246",
+  "name": "Zelda: The Wand of Gamelon",
+  "started_at": "2023-01-26T13:05:17Z",
+  "total_viewer": 5297
+},{
+  "_id": {
+    "$oid": "63d2a9d85cb3d98c6b708640"
+  },
+  "id_game": "502732",
+  "name": "Garena Free Fire",
+  "started_at": "2023-01-26T12:06:29Z",
+  "total_viewer": 5558,
+  "chanel": 215
+},{
+  "_id": {
+    "$oid": "63d2a9d95cb3d98c6b708642"
+  },
+  "id_game": "507714",
+  "name": "Farlands",
+  "started_at": "2023-01-26T15:52:42Z",
+  "total_viewer": 6694
+},{
+  "_id": {
+    "$oid": "63d2a9d95cb3d98c6b708645"
+  },
+  "id_game": "497346",
+  "name": "13 Sentinels: Aegis Rim",
+  "started_at": "2023-01-26T11:43:32Z",
+  "total_viewer": 4013
+},{
+  "_id": {
+    "$oid": "63d2a9da5cb3d98c6b70864b"
+  },
+  "id_game": "496902",
+  "name": "Slay the Spire",
+  "started_at": "2023-01-26T13:35:28Z",
+  "total_viewer": 4493
+},{
+  "_id": {
+    "$oid": "63d2a9db5cb3d98c6b70864d"
+  },
+  "id_game": "511701",
+  "name": "Ready or Not",
+  "started_at": "2023-01-26T16:47:43Z",
+  "total_viewer": 5296
+},{
+  "_id": {
+    "$oid": "63d2a9dc5cb3d98c6b708652"
+  },
+  "id_game": "687129551",
+  "name": "Trackmania",
+  "started_at": "2023-01-26T15:04:27Z",
+  "total_viewer": 4376
+},{
+  "_id": {
+    "$oid": "63d2a9dc5cb3d98c6b708655"
+  },
+  "id_game": "80607",
+  "name": "Elite: Dangerous",
+  "started_at": "2023-01-26T17:05:44Z",
+  "total_viewer": 4543
+},{
+  "_id": {
+    "$oid": "63d2a9df5cb3d98c6b708662"
+  },
+  "id_game": "514224",
+  "name": "Momotaro Dentetsu: Showa, Heisei, Reiwa mo Teiban!",
+  "started_at": "2023-01-26T12:50:21Z",
+  "total_viewer": 2698
+},{
+  "_id": {
+    "$oid": "63d2a9e15cb3d98c6b70866e"
+  },
+  "id_game": "71375",
+  "name": "Star Citizen",
+  "started_at": "2023-01-26T16:39:56Z",
+  "total_viewer": 3862
+},{
+  "_id": {
+    "$oid": "63d2accb5cb3d98c6b708b89"
+  },
+  "id_game": "11557",
+  "name": "The Legend of Zelda: Ocarina of Time",
+  "started_at": "2023-01-26T14:29:34Z",
+  "total_viewer": 6165
+},{
+  "_id": {
+    "$oid": "63d2acd35cb3d98c6b708bcc"
+  },
+  "id_game": "505845",
+  "name": "Realm Royale Reforged",
+  "started_at": "2023-01-26T16:14:23Z",
+  "total_viewer": 2887
+},{
+  "_id": {
+    "$oid": "63d2acd55cb3d98c6b708bde"
+  },
+  "id_game": "459327",
+  "name": "Hearts of Iron IV",
+  "started_at": "2023-01-26T16:07:38Z",
+  "total_viewer": 2707,
+  "joueur_acts": 31437,
+  "rank": 34
+},{
+  "_id": {
+    "$oid": "63d2b4e25cb3d98c6b709910"
+  },
+  "id_game": "842002391",
+  "name": "OddBallers",
+  "started_at": "2023-01-26T17:04:29Z",
+  "total_viewer": 18126
+},{
+  "_id": {
+    "$oid": "63d2b4e95cb3d98c6b709932"
+  },
+  "id_game": "490382",
+  "name": "For Honor",
+  "started_at": "2023-01-26T14:11:51Z",
+  "total_viewer": 7185
+},{
+  "_id": {
+    "$oid": "63d2b4eb5cb3d98c6b70993e"
+  },
+  "id_game": "509663",
+  "name": "Special Events",
+  "started_at": "2023-01-26T15:53:16Z",
+  "total_viewer": 7815
+},{
+  "_id": {
+    "$oid": "63d2b4f05cb3d98c6b709959"
+  },
+  "id_game": "940111995",
+  "name": "Death in the Water 2",
+  "started_at": "2023-01-26T17:02:56Z",
+  "total_viewer": 69069
+},{
+  "_id": {
+    "$oid": "63d2b4f35cb3d98c6b709963"
+  },
+  "id_game": "503446",
+  "name": "Star Wars Jedi: Fallen Order",
+  "started_at": "2023-01-26T12:21:33Z",
+  "total_viewer": 3050,
+  "chanel": 117
+},{
+  "_id": {
+    "$oid": "63d2b4f45cb3d98c6b70996b"
+  },
+  "id_game": "19554",
+  "name": "iRacing",
+  "started_at": "2023-01-26T15:57:32Z",
+  "total_viewer": 2920,
+  "chanel": 298
+},{
+  "_id": {
+    "$oid": "63d2ee2c5cb3d98c6b70c1a8"
+  },
+  "id_game": "510218",
+  "name": "Among Us",
+  "started_at": "2023-01-26T19:24:10Z",
+  "total_viewer": 40146,
+  "joueur_acts": 8115,
+  "rank": 100,
+  "chanel": 111
+},{
+  "_id": {
+    "$oid": "63d2ee325cb3d98c6b70c1c1"
+  },
+  "id_game": "509664",
+  "name": "Tabletop RPGs",
+  "started_at": "2023-01-26T18:03:06Z",
+  "total_viewer": 13889
+},{
+  "_id": {
+    "$oid": "63d2ee355cb3d98c6b70c1ce"
+  },
+  "id_game": "1089438810",
+  "name": "Among Us",
+  "started_at": "2023-01-26T18:29:36Z",
+  "total_viewer": 9929,
+  "joueur_acts": 8115,
+  "rank": 100,
+  "chanel": 111
+},{
+  "_id": {
+    "$oid": "63d2ee355cb3d98c6b70c1d1"
+  },
+  "id_game": "30720",
+  "name": "The Wolf Among Us",
+  "started_at": "2023-01-26T20:59:55Z",
+  "total_viewer": 9131
+},{
+  "_id": {
+    "$oid": "63d2ee365cb3d98c6b70c1d4"
+  },
+  "id_game": "461449",
+  "name": "Cities: Skylines",
+  "started_at": "2023-01-26T19:03:21Z",
+  "total_viewer": 9000,
+  "joueur_acts": 18651,
+  "rank": 55
+},{
+  "_id": {
+    "$oid": "63d2ee3a5cb3d98c6b70c1e4"
+  },
+  "id_game": "735602708",
+  "name": "Marvel's Midnight Suns",
+  "started_at": "2023-01-26T19:33:09Z",
+  "total_viewer": 7129
+},{
+  "_id": {
+    "$oid": "63d2ee3c5cb3d98c6b70c1ed"
+  },
+  "id_game": "116747788",
+  "name": "Pools, Hot Tubs, and Beaches",
+  "started_at": "2023-01-26T17:18:39Z",
+  "total_viewer": 6133
+},{
+  "_id": {
+    "$oid": "63d2ee3e5cb3d98c6b70c1f4"
+  },
+  "id_game": "175235379",
+  "name": "Against the Storm",
+  "started_at": "2023-01-26T21:12:42Z",
+  "total_viewer": 5296
+},{
+  "_id": {
+    "$oid": "63d2ee3e5cb3d98c6b70c1f7"
+  },
+  "id_game": "788107061",
+  "name": "So Below",
+  "started_at": "2023-01-26T18:00:14Z",
+  "total_viewer": 5144
+},{
+  "_id": {
+    "$oid": "63d2ee405cb3d98c6b70c205"
+  },
+  "id_game": "369252",
+  "name": "The Sims 4",
+  "started_at": "2023-01-26T21:15:52Z",
+  "total_viewer": 3467,
+  "chanel": 138
+},{
+  "_id": {
+    "$oid": "63d2ee425cb3d98c6b70c20d"
+  },
+  "id_game": "1705795372",
+  "name": "F1 22",
+  "started_at": "2023-01-26T20:22:59Z",
+  "total_viewer": 2735,
+  "chanel": 120
+},{
+  "_id": {
+    "$oid": "63d2ee435cb3d98c6b70c210"
+  },
+  "id_game": "91423",
+  "name": "Dark Souls II",
+  "started_at": "2023-01-26T15:57:31Z",
+  "total_viewer": 4015
+},{
+  "_id": {
+    "$oid": "63d2ee455cb3d98c6b70c215"
+  },
+  "id_game": "14333696",
+  "name": "Goose Goose Duck",
+  "started_at": "2023-01-26T18:56:25Z",
+  "total_viewer": 4111,
+  "joueur_acts": 29133,
+  "rank": 38
+},{
+  "_id": {
+    "$oid": "63d2ee455cb3d98c6b70c219"
+  },
+  "id_game": "17085",
+  "name": "Quiz Show",
+  "started_at": "2023-01-26T19:23:14Z",
+  "total_viewer": 3968
+},{
+  "_id": {
+    "$oid": "63d2ee465cb3d98c6b70c21d"
+  },
+  "id_game": "459676",
+  "name": "Batman: Arkham Knight",
+  "started_at": "2023-01-26T19:25:32Z",
+  "total_viewer": 3573
+},{
+  "_id": {
+    "$oid": "63d2ee465cb3d98c6b70c221"
+  },
+  "id_game": "516086",
+  "name": "Grounded",
+  "started_at": "2023-01-26T17:17:10Z",
+  "total_viewer": 2802,
+  "chanel": 122
+},{
+  "_id": {
+    "$oid": "63d2ee475cb3d98c6b70c223"
+  },
+  "id_game": "493125",
+  "name": "My Summer Car",
+  "started_at": "2023-01-26T20:13:49Z",
+  "total_viewer": 3357
+},{
+  "_id": {
+    "$oid": "63d2ee475cb3d98c6b70c225"
+  },
+  "id_game": "1913410799",
+  "name": "Total War: Warhammer III",
+  "started_at": "2023-01-26T21:02:32Z",
+  "total_viewer": 3311
+}]

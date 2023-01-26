@@ -1,0 +1,8656 @@
+[{
+  "_id": {
+    "$oid": "63d2625c5cb3d98c6b701d52"
+  },
+  "id_game": "29595",
+  "name": "Dota 2",
+  "history": [
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 64260,
+      "date": {
+        "$date": {
+          "$numberLong": "1674735660000"
+        }
+      },
+      "joueur_acts": 392049,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 78276,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736320000"
+        }
+      },
+      "joueur_acts": 399973,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 78738,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736440000"
+        }
+      },
+      "joueur_acts": 399973,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 79950,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736500000"
+        }
+      },
+      "joueur_acts": 399973,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 85836,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736920000"
+        }
+      },
+      "joueur_acts": 407734,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 89065,
+      "date": {
+        "$date": {
+          "$numberLong": "1674737580000"
+        }
+      },
+      "joueur_acts": 415680,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 92366,
+      "date": {
+        "$date": {
+          "$numberLong": "1674738240000"
+        }
+      },
+      "joueur_acts": 424685,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 59485,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 533135,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 80829,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 541048,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 91919,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 547438,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 104608,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 552667,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 109428,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 556426,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 115164,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 560623,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 128254,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 563663,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 133100,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 562549,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 132786,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 558168,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 110032,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 556500,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 83791,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 554854,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 61808,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 553424,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 34903,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 550739,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 36799,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 547988,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 41050,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 544677,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 45884,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 542334,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 50729,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 537325,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 52232,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 533983,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 53256,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 527410,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 47743,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 523637,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 44132,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 519114,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 45806,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 515148,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 47486,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 511544,
+      "chanel": 823,
+      "rank": 2
+    },
+    {
+      "id_game": "29595",
+      "name": "Dota 2",
+      "total_viewer": 61901,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 374687,
+      "chanel": 823,
+      "rank": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2625c5cb3d98c6b701d54"
+  },
+  "id_game": "32399",
+  "name": "Counter-Strike: Global Offensive",
+  "history": [
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 35302,
+      "date": {
+        "$date": {
+          "$numberLong": "1674735660000"
+        }
+      },
+      "joueur_acts": 793398,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 39065,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736320000"
+        }
+      },
+      "joueur_acts": 810091,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 39509,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736440000"
+        }
+      },
+      "joueur_acts": 810091,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 39921,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736500000"
+        }
+      },
+      "joueur_acts": 810091,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 31753,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736920000"
+        }
+      },
+      "joueur_acts": 833606,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 23414,
+      "date": {
+        "$date": {
+          "$numberLong": "1674737580000"
+        }
+      },
+      "joueur_acts": 856149,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 21856,
+      "date": {
+        "$date": {
+          "$numberLong": "1674738240000"
+        }
+      },
+      "joueur_acts": 873572,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 71142,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 1033959,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 113524,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 1030574,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 118330,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 1028162,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 130209,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 1026303,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 145390,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 1023831,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 158779,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 1015766,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 167107,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 970016,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 170561,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 965304,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 121357,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 950487,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 130630,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 946202,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 149210,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 941194,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 201016,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 936750,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 225502,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 926076,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 241100,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 917834,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 240097,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 914212,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 251679,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 911710,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 185143,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 913773,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 213943,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 913773,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 247414,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 907300,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 260343,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 903472,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 250281,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 905294,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 274158,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 906011,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 283825,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 905812,
+      "chanel": 1100,
+      "rank": 1
+    },
+    {
+      "id_game": "32399",
+      "name": "Counter-Strike: Global Offensive",
+      "total_viewer": 85960,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 728737,
+      "chanel": 1100,
+      "rank": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2625c5cb3d98c6b701d56"
+  },
+  "id_game": "32982",
+  "name": "Grand Theft Auto V",
+  "history": [
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 17680,
+      "date": {
+        "$date": {
+          "$numberLong": "1674735660000"
+        }
+      },
+      "joueur_acts": 127335,
+      "chanel": 2900,
+      "rank": 5
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 19821,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736320000"
+        }
+      },
+      "joueur_acts": 129576,
+      "chanel": 2900,
+      "rank": 5
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 19308,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736440000"
+        }
+      },
+      "joueur_acts": 129576,
+      "chanel": 2900,
+      "rank": 5
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 19714,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736500000"
+        }
+      },
+      "joueur_acts": 129576,
+      "chanel": 2900,
+      "rank": 5
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 19940,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736920000"
+        }
+      },
+      "joueur_acts": 132065,
+      "chanel": 2900,
+      "rank": 5
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 24500,
+      "date": {
+        "$date": {
+          "$numberLong": "1674737580000"
+        }
+      },
+      "joueur_acts": 134473,
+      "chanel": 2900,
+      "rank": 6
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 26504,
+      "date": {
+        "$date": {
+          "$numberLong": "1674738240000"
+        }
+      },
+      "joueur_acts": 136654,
+      "chanel": 2900,
+      "rank": 6
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 54683,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 154510,
+      "chanel": 2900,
+      "rank": 6
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 47737,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 154446,
+      "chanel": 2900,
+      "rank": 6
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 45861,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 154449,
+      "chanel": 2900,
+      "rank": 6
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 47743,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 154449,
+      "chanel": 2900,
+      "rank": 6
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 46575,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 153981,
+      "chanel": 2900,
+      "rank": 6
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 47490,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 153211,
+      "chanel": 2900,
+      "rank": 6
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 47710,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 144350,
+      "chanel": 2900,
+      "rank": 6
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 48604,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 143604,
+      "chanel": 2900,
+      "rank": 7
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 46617,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 141045,
+      "chanel": 2900,
+      "rank": 7
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 49302,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 138360,
+      "chanel": 2900,
+      "rank": 7
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 49663,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 137108,
+      "chanel": 2900,
+      "rank": 7
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 48810,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 135834,
+      "chanel": 2900,
+      "rank": 7
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 45431,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 133035,
+      "chanel": 2900,
+      "rank": 7
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 52755,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 131458,
+      "chanel": 2900,
+      "rank": 7
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 54688,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 129768,
+      "chanel": 2900,
+      "rank": 7
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 56770,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 128624,
+      "chanel": 2900,
+      "rank": 6
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 55583,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 126467,
+      "chanel": 2900,
+      "rank": 6
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 58232,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 125381,
+      "chanel": 2900,
+      "rank": 6
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 51754,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 123735,
+      "chanel": 2900,
+      "rank": 6
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 59657,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 123032,
+      "chanel": 2900,
+      "rank": 6
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 60888,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 121797,
+      "chanel": 2900,
+      "rank": 6
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 71255,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 120880,
+      "chanel": 2900,
+      "rank": 6
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 72056,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 119721,
+      "chanel": 2900,
+      "rank": 6
+    },
+    {
+      "id_game": "32982",
+      "name": "Grand Theft Auto V",
+      "total_viewer": 80652,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 88649,
+      "chanel": 2900,
+      "rank": 9
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2625c5cb3d98c6b701d58"
+  },
+  "id_game": "491487",
+  "name": "Dead by Daylight",
+  "history": [
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 7704,
+      "date": {
+        "$date": {
+          "$numberLong": "1674735660000"
+        }
+      },
+      "joueur_acts": 33682,
+      "chanel": 1500,
+      "rank": 25
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 8263,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736320000"
+        }
+      },
+      "joueur_acts": 34527,
+      "chanel": 1500,
+      "rank": 24
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 8415,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736440000"
+        }
+      },
+      "joueur_acts": 34527,
+      "chanel": 1500,
+      "rank": 24
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 8294,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736500000"
+        }
+      },
+      "joueur_acts": 34527,
+      "chanel": 1500,
+      "rank": 24
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 8337,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736920000"
+        }
+      },
+      "joueur_acts": 35428,
+      "chanel": 1500,
+      "rank": 24
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 9617,
+      "date": {
+        "$date": {
+          "$numberLong": "1674737580000"
+        }
+      },
+      "joueur_acts": 36444,
+      "chanel": 1500,
+      "rank": 23
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 10217,
+      "date": {
+        "$date": {
+          "$numberLong": "1674738240000"
+        }
+      },
+      "joueur_acts": 37336,
+      "chanel": 1500,
+      "rank": 23
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 11876,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 46842,
+      "chanel": 1500,
+      "rank": 23
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 11955,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 46980,
+      "chanel": 1500,
+      "rank": 23
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 11846,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 47356,
+      "chanel": 1500,
+      "rank": 23
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 12509,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 47452,
+      "chanel": 1500,
+      "rank": 23
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 12569,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 47452,
+      "chanel": 1500,
+      "rank": 23
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 11034,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 47429,
+      "chanel": 1500,
+      "rank": 23
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 14633,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 46284,
+      "chanel": 1500,
+      "rank": 23
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 12835,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 46179,
+      "chanel": 1500,
+      "rank": 23
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 13152,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 45605,
+      "chanel": 1500,
+      "rank": 23
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 13685,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 45176,
+      "chanel": 1500,
+      "rank": 23
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 13595,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 44885,
+      "chanel": 1500,
+      "rank": 23
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 13636,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 44775,
+      "chanel": 1500,
+      "rank": 24
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 13779,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 44421,
+      "chanel": 1500,
+      "rank": 24
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 14540,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 44300,
+      "chanel": 1500,
+      "rank": 24
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 14642,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 44203,
+      "chanel": 1500,
+      "rank": 24
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 14845,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 44322,
+      "chanel": 1500,
+      "rank": 24
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 14391,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 44477,
+      "chanel": 1500,
+      "rank": 24
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 11597,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 44619,
+      "chanel": 1500,
+      "rank": 24
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 12143,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 44682,
+      "chanel": 1500,
+      "rank": 23
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 11945,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 44682,
+      "chanel": 1500,
+      "rank": 23
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 12208,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 44687,
+      "chanel": 1500,
+      "rank": 23
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 12767,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 44708,
+      "chanel": 1500,
+      "rank": 23
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 12566,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 44903,
+      "chanel": 1500,
+      "rank": 23
+    },
+    {
+      "id_game": "491487",
+      "name": "Dead by Daylight",
+      "total_viewer": 9161,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 41184,
+      "chanel": 1500,
+      "rank": 23
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2625c5cb3d98c6b701d5a"
+  },
+  "id_game": "490100",
+  "name": "Lost Ark",
+  "history": [
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 11062,
+      "date": {
+        "$date": {
+          "$numberLong": "1674735660000"
+        }
+      },
+      "joueur_acts": 125006,
+      "chanel": 328,
+      "rank": 6
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 11011,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736320000"
+        }
+      },
+      "joueur_acts": 125538,
+      "chanel": 328,
+      "rank": 6
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 11103,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736440000"
+        }
+      },
+      "joueur_acts": 125538,
+      "chanel": 328,
+      "rank": 6
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 11154,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736500000"
+        }
+      },
+      "joueur_acts": 125538,
+      "chanel": 328,
+      "rank": 6
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 11032,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736920000"
+        }
+      },
+      "joueur_acts": 126296,
+      "chanel": 328,
+      "rank": 6
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 11284,
+      "date": {
+        "$date": {
+          "$numberLong": "1674737580000"
+        }
+      },
+      "joueur_acts": 126705,
+      "chanel": 328,
+      "rank": 7
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 10858,
+      "date": {
+        "$date": {
+          "$numberLong": "1674738240000"
+        }
+      },
+      "joueur_acts": 127651,
+      "chanel": 328,
+      "rank": 7
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 12591,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 136217,
+      "chanel": 328,
+      "rank": 7
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 12767,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 137855,
+      "chanel": 328,
+      "rank": 7
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 12601,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 137702,
+      "chanel": 328,
+      "rank": 7
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 12734,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 138892,
+      "chanel": 328,
+      "rank": 7
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 12891,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 139681,
+      "chanel": 328,
+      "rank": 7
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 13231,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 140776,
+      "chanel": 328,
+      "rank": 7
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 17986,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 144110,
+      "chanel": 328,
+      "rank": 7
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 18778,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 144407,
+      "chanel": 328,
+      "rank": 6
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 20093,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 145646,
+      "chanel": 328,
+      "rank": 6
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 20467,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 146213,
+      "chanel": 328,
+      "rank": 6
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 21022,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 147346,
+      "chanel": 328,
+      "rank": 6
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 20292,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 147511,
+      "chanel": 328,
+      "rank": 6
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 20981,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 149070,
+      "chanel": 328,
+      "rank": 6
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 21221,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 149720,
+      "chanel": 328,
+      "rank": 5
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 21336,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 149720,
+      "chanel": 328,
+      "rank": 5
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 20429,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 149538,
+      "chanel": 328,
+      "rank": 5
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 20749,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 150776,
+      "chanel": 328,
+      "rank": 5
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 20098,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 150998,
+      "chanel": 328,
+      "rank": 5
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 19922,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 151650,
+      "chanel": 328,
+      "rank": 5
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 20026,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 150960,
+      "chanel": 328,
+      "rank": 5
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 19333,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 151702,
+      "chanel": 328,
+      "rank": 5
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 20036,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 151769,
+      "chanel": 328,
+      "rank": 5
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 20172,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 151121,
+      "chanel": 328,
+      "rank": 5
+    },
+    {
+      "id_game": "490100",
+      "name": "Lost Ark",
+      "total_viewer": 7763,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 146094,
+      "chanel": 328,
+      "rank": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2625c5cb3d98c6b701d5c"
+  },
+  "id_game": "493057",
+  "name": "PUBG: BATTLEGROUNDS",
+  "history": [
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 5366,
+      "date": {
+        "$date": {
+          "$numberLong": "1674735660000"
+        }
+      },
+      "joueur_acts": 275817,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 5383,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736320000"
+        }
+      },
+      "joueur_acts": 283946,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 5406,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736440000"
+        }
+      },
+      "joueur_acts": 283946,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 5410,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736500000"
+        }
+      },
+      "joueur_acts": 283946,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 5659,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736920000"
+        }
+      },
+      "joueur_acts": 292412,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 7883,
+      "date": {
+        "$date": {
+          "$numberLong": "1674737580000"
+        }
+      },
+      "joueur_acts": 301159,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 9518,
+      "date": {
+        "$date": {
+          "$numberLong": "1674738240000"
+        }
+      },
+      "joueur_acts": 308938,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 11494,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 365017,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 14596,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 362590,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 10999,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 360960,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 10791,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 359661,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 5952,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 355905,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 6545,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 347381,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 8110,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 301737,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 7753,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 297584,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 7975,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 282256,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 7798,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 273354,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 6662,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 265408,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 6437,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 258526,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 6212,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 247986,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 4287,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 241835,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 4075,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 235458,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 4310,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 229548,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 5057,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 221254,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 6015,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 216572,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 5977,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 209229,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 5857,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 206541,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 6027,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 201656,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 6204,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 196788,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 6237,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 192567,
+      "chanel": 601,
+      "rank": 3
+    },
+    {
+      "id_game": "493057",
+      "name": "PUBG: BATTLEGROUNDS",
+      "total_viewer": 5487,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 127153,
+      "chanel": 601,
+      "rank": 4
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2625c5cb3d98c6b701d5e"
+  },
+  "id_game": "29307",
+  "name": "Path of Exile",
+  "history": [
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 5138,
+      "date": {
+        "$date": {
+          "$numberLong": "1674735660000"
+        }
+      },
+      "joueur_acts": 24411,
+      "chanel": 169,
+      "rank": 37
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 5394,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736320000"
+        }
+      },
+      "joueur_acts": 24728,
+      "chanel": 169,
+      "rank": 37
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 5397,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736440000"
+        }
+      },
+      "joueur_acts": 24728,
+      "chanel": 169,
+      "rank": 37
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 5428,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736500000"
+        }
+      },
+      "joueur_acts": 24728,
+      "chanel": 169,
+      "rank": 37
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 5697,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736920000"
+        }
+      },
+      "joueur_acts": 24980,
+      "chanel": 169,
+      "rank": 37
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 5547,
+      "date": {
+        "$date": {
+          "$numberLong": "1674737580000"
+        }
+      },
+      "joueur_acts": 25287,
+      "chanel": 169,
+      "rank": 37
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 5814,
+      "date": {
+        "$date": {
+          "$numberLong": "1674738240000"
+        }
+      },
+      "joueur_acts": 25485,
+      "chanel": 169,
+      "rank": 37
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 7450,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 28851,
+      "chanel": 169,
+      "rank": 38
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 7406,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 29325,
+      "chanel": 169,
+      "rank": 38
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 7230,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 29752,
+      "chanel": 169,
+      "rank": 38
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 7110,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 30090,
+      "chanel": 169,
+      "rank": 38
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 5881,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 30325,
+      "chanel": 169,
+      "rank": 38
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 6144,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 30805,
+      "chanel": 169,
+      "rank": 38
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 6905,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 33073,
+      "chanel": 169,
+      "rank": 35
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 6684,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 33163,
+      "chanel": 169,
+      "rank": 34
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 6794,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 33369,
+      "chanel": 169,
+      "rank": 34
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 6851,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 33909,
+      "chanel": 169,
+      "rank": 33
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 7102,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 34166,
+      "chanel": 169,
+      "rank": 33
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 7127,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 34644,
+      "chanel": 169,
+      "rank": 33
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 7262,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 35022,
+      "chanel": 169,
+      "rank": 33
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 7113,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 35296,
+      "chanel": 169,
+      "rank": 33
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 7246,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 35676,
+      "chanel": 169,
+      "rank": 32
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 8027,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 35894,
+      "chanel": 169,
+      "rank": 31
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 9102,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 36125,
+      "chanel": 169,
+      "rank": 31
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 9537,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 36372,
+      "chanel": 169,
+      "rank": 30
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 10121,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 36425,
+      "chanel": 169,
+      "rank": 30
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 10272,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 36709,
+      "chanel": 169,
+      "rank": 31
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 10698,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 36769,
+      "chanel": 169,
+      "rank": 30
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 10611,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 36878,
+      "chanel": 169,
+      "rank": 30
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 10707,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 37119,
+      "chanel": 169,
+      "rank": 30
+    },
+    {
+      "id_game": "29307",
+      "name": "Path of Exile",
+      "total_viewer": 7213,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 35012,
+      "chanel": 169,
+      "rank": 28
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2625c5cb3d98c6b701d60"
+  },
+  "id_game": "65632",
+  "name": "DayZ",
+  "history": [
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 4418,
+      "date": {
+        "$date": {
+          "$numberLong": "1674735660000"
+        }
+      },
+      "joueur_acts": 27113,
+      "chanel": 310,
+      "rank": 33
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 5242,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736320000"
+        }
+      },
+      "joueur_acts": 27726,
+      "chanel": 310,
+      "rank": 33
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 5216,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736440000"
+        }
+      },
+      "joueur_acts": 27726,
+      "chanel": 310,
+      "rank": 33
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 5193,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736500000"
+        }
+      },
+      "joueur_acts": 27726,
+      "chanel": 310,
+      "rank": 33
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 5555,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736920000"
+        }
+      },
+      "joueur_acts": 28123,
+      "chanel": 310,
+      "rank": 34
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 5731,
+      "date": {
+        "$date": {
+          "$numberLong": "1674737580000"
+        }
+      },
+      "joueur_acts": 28660,
+      "chanel": 310,
+      "rank": 34
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 5664,
+      "date": {
+        "$date": {
+          "$numberLong": "1674738240000"
+        }
+      },
+      "joueur_acts": 28922,
+      "chanel": 310,
+      "rank": 35
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 7383,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 34579,
+      "chanel": 310,
+      "rank": 35
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 7360,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 35291,
+      "chanel": 310,
+      "rank": 34
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 7680,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 35916,
+      "chanel": 310,
+      "rank": 32
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 7578,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 36521,
+      "chanel": 310,
+      "rank": 32
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 7653,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 37089,
+      "chanel": 310,
+      "rank": 32
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 7500,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 37989,
+      "chanel": 310,
+      "rank": 30
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 8178,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 41910,
+      "chanel": 310,
+      "rank": 25
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 8503,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 42214,
+      "chanel": 310,
+      "rank": 25
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 8058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 42630,
+      "chanel": 310,
+      "rank": 25
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 8411,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 43621,
+      "chanel": 310,
+      "rank": 25
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 8458,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 44368,
+      "chanel": 310,
+      "rank": 25
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 8586,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 44960,
+      "chanel": 310,
+      "rank": 23
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 8703,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 45598,
+      "chanel": 310,
+      "rank": 22
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 8763,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 46203,
+      "chanel": 310,
+      "rank": 22
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 8974,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 46992,
+      "chanel": 310,
+      "rank": 21
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 4671,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 47512,
+      "chanel": 310,
+      "rank": 20
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 5164,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 48267,
+      "chanel": 310,
+      "rank": 19
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 5995,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 48726,
+      "chanel": 310,
+      "rank": 19
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 6078,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 48761,
+      "chanel": 310,
+      "rank": 20
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 6071,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 49194,
+      "chanel": 310,
+      "rank": 20
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 5697,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 49591,
+      "chanel": 310,
+      "rank": 20
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 5779,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 49930,
+      "chanel": 310,
+      "rank": 20
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 5841,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 50253,
+      "chanel": 310,
+      "rank": 20
+    },
+    {
+      "id_game": "65632",
+      "name": "DayZ",
+      "total_viewer": 9450,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 43335,
+      "chanel": 310,
+      "rank": 22
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2625c5cb3d98c6b701d62"
+  },
+  "id_game": "386821",
+  "name": "Black Desert",
+  "history": [
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2568,
+      "date": {
+        "$date": {
+          "$numberLong": "1674735660000"
+        }
+      },
+      "joueur_acts": 17067,
+      "chanel": 210,
+      "rank": 51
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2602,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736320000"
+        }
+      },
+      "joueur_acts": 17202,
+      "chanel": 210,
+      "rank": 51
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2655,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736440000"
+        }
+      },
+      "joueur_acts": 17202,
+      "chanel": 210,
+      "rank": 51
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2653,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736500000"
+        }
+      },
+      "joueur_acts": 17202,
+      "chanel": 210,
+      "rank": 51
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2642,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736920000"
+        }
+      },
+      "joueur_acts": 17333,
+      "chanel": 210,
+      "rank": 52
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2757,
+      "date": {
+        "$date": {
+          "$numberLong": "1674737580000"
+        }
+      },
+      "joueur_acts": 17425,
+      "chanel": 210,
+      "rank": 54
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2856,
+      "date": {
+        "$date": {
+          "$numberLong": "1674738240000"
+        }
+      },
+      "joueur_acts": 17590,
+      "chanel": 210,
+      "rank": 54
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 3186,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 19377,
+      "chanel": 210,
+      "rank": 56
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 3446,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 19515,
+      "chanel": 210,
+      "rank": 57
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 3323,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 19621,
+      "chanel": 210,
+      "rank": 57
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 3439,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 19721,
+      "chanel": 210,
+      "rank": 58
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 3627,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 19847,
+      "chanel": 210,
+      "rank": 58
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 3242,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 20093,
+      "chanel": 210,
+      "rank": 58
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2750,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 21107,
+      "chanel": 210,
+      "rank": 55
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2640,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 21173,
+      "chanel": 210,
+      "rank": 55
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2841,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 21218,
+      "chanel": 210,
+      "rank": 52
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2750,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 21264,
+      "chanel": 210,
+      "rank": 50
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2748,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 21364,
+      "chanel": 210,
+      "rank": 50
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2739,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 21490,
+      "chanel": 210,
+      "rank": 50
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2637,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 21665,
+      "chanel": 210,
+      "rank": 50
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2622,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 21713,
+      "chanel": 210,
+      "rank": 50
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2740,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 21883,
+      "chanel": 210,
+      "rank": 48
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2882,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 21980,
+      "chanel": 210,
+      "rank": 48
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2751,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 22062,
+      "chanel": 210,
+      "rank": 47
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2909,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 22175,
+      "chanel": 210,
+      "rank": 47
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2876,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 22256,
+      "chanel": 210,
+      "rank": 47
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 3213,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 22256,
+      "chanel": 210,
+      "rank": 47
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 3968,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 22285,
+      "chanel": 210,
+      "rank": 48
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 3713,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 22368,
+      "chanel": 210,
+      "rank": 48
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 4022,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 22474,
+      "chanel": 210,
+      "rank": 49
+    },
+    {
+      "id_game": "386821",
+      "name": "Black Desert",
+      "total_viewer": 2472,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 21297,
+      "chanel": 210,
+      "rank": 48
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2625c5cb3d98c6b701d64"
+  },
+  "id_game": "497057",
+  "name": "Destiny 2",
+  "history": [
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 2514,
+      "date": {
+        "$date": {
+          "$numberLong": "1674735660000"
+        }
+      },
+      "joueur_acts": 47823,
+      "chanel": 598,
+      "rank": 16
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 2588,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736320000"
+        }
+      },
+      "joueur_acts": 48137,
+      "chanel": 598,
+      "rank": 16
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 2622,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736440000"
+        }
+      },
+      "joueur_acts": 48137,
+      "chanel": 598,
+      "rank": 16
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 2622,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736500000"
+        }
+      },
+      "joueur_acts": 48137,
+      "chanel": 598,
+      "rank": 16
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 2609,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736920000"
+        }
+      },
+      "joueur_acts": 48715,
+      "chanel": 598,
+      "rank": 16
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 2701,
+      "date": {
+        "$date": {
+          "$numberLong": "1674737580000"
+        }
+      },
+      "joueur_acts": 49171,
+      "chanel": 598,
+      "rank": 17
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 2915,
+      "date": {
+        "$date": {
+          "$numberLong": "1674738240000"
+        }
+      },
+      "joueur_acts": 49911,
+      "chanel": 598,
+      "rank": 18
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 3715,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 55903,
+      "chanel": 598,
+      "rank": 20
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 3708,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 56320,
+      "chanel": 598,
+      "rank": 20
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 3602,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 56812,
+      "chanel": 598,
+      "rank": 19
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 3521,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 57112,
+      "chanel": 598,
+      "rank": 19
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 3760,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 57298,
+      "chanel": 598,
+      "rank": 19
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 3976,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 57954,
+      "chanel": 598,
+      "rank": 19
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 4493,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 59125,
+      "chanel": 598,
+      "rank": 19
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 3715,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 59173,
+      "chanel": 598,
+      "rank": 19
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 4404,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 59412,
+      "chanel": 598,
+      "rank": 18
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 4430,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 59900,
+      "chanel": 598,
+      "rank": 18
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 4484,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 60198,
+      "chanel": 598,
+      "rank": 18
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 4444,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 60505,
+      "chanel": 598,
+      "rank": 18
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 5044,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 61102,
+      "chanel": 598,
+      "rank": 17
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 5468,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 61467,
+      "chanel": 598,
+      "rank": 16
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 5669,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 62051,
+      "chanel": 598,
+      "rank": 15
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 5832,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 62879,
+      "chanel": 598,
+      "rank": 15
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 6186,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 63888,
+      "chanel": 598,
+      "rank": 15
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 6334,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 64386,
+      "chanel": 598,
+      "rank": 15
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 6545,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 64779,
+      "chanel": 598,
+      "rank": 15
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 6638,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 65385,
+      "chanel": 598,
+      "rank": 15
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 6817,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 65847,
+      "chanel": 598,
+      "rank": 15
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 6829,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 66369,
+      "chanel": 598,
+      "rank": 15
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 7079,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 66776,
+      "chanel": 598,
+      "rank": 15
+    },
+    {
+      "id_game": "497057",
+      "name": "Destiny 2",
+      "total_viewer": 4421,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 71953,
+      "chanel": 598,
+      "rank": 11
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2625c5cb3d98c6b701d66"
+  },
+  "id_game": "263490",
+  "name": "Rust",
+  "history": [
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 2605,
+      "date": {
+        "$date": {
+          "$numberLong": "1674735660000"
+        }
+      },
+      "joueur_acts": 59663,
+      "chanel": 444,
+      "rank": 13
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 2555,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736320000"
+        }
+      },
+      "joueur_acts": 60422,
+      "chanel": 444,
+      "rank": 13
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 2530,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736440000"
+        }
+      },
+      "joueur_acts": 60422,
+      "chanel": 444,
+      "rank": 13
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 2523,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736500000"
+        }
+      },
+      "joueur_acts": 60422,
+      "chanel": 444,
+      "rank": 13
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 2648,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736920000"
+        }
+      },
+      "joueur_acts": 61478,
+      "chanel": 444,
+      "rank": 13
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 2599,
+      "date": {
+        "$date": {
+          "$numberLong": "1674737580000"
+        }
+      },
+      "joueur_acts": 62769,
+      "chanel": 444,
+      "rank": 13
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 2653,
+      "date": {
+        "$date": {
+          "$numberLong": "1674738240000"
+        }
+      },
+      "joueur_acts": 63678,
+      "chanel": 444,
+      "rank": 13
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 2771,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 76399,
+      "chanel": 444,
+      "rank": 12
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 2847,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 77672,
+      "chanel": 444,
+      "rank": 12
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 3023,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 79263,
+      "chanel": 444,
+      "rank": 12
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 3297,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 81020,
+      "chanel": 444,
+      "rank": 12
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 3459,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 83556,
+      "chanel": 444,
+      "rank": 11
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 3566,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 87239,
+      "chanel": 444,
+      "rank": 11
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 7519,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 98443,
+      "chanel": 444,
+      "rank": 10
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 8065,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 99139,
+      "chanel": 444,
+      "rank": 10
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 8370,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 100633,
+      "chanel": 444,
+      "rank": 10
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 8797,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 101594,
+      "chanel": 444,
+      "rank": 10
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 9183,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 103238,
+      "chanel": 444,
+      "rank": 9
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 9319,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 104315,
+      "chanel": 444,
+      "rank": 9
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 9539,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 105449,
+      "chanel": 444,
+      "rank": 8
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 9703,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 106096,
+      "chanel": 444,
+      "rank": 8
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 10229,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 106629,
+      "chanel": 444,
+      "rank": 8
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 11482,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 107398,
+      "chanel": 444,
+      "rank": 8
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 21011,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 109345,
+      "chanel": 444,
+      "rank": 7
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 21932,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 109345,
+      "chanel": 444,
+      "rank": 8
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 21631,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 109813,
+      "chanel": 444,
+      "rank": 8
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 22679,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 109813,
+      "chanel": 444,
+      "rank": 8
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 22905,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 109831,
+      "chanel": 444,
+      "rank": 8
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 23764,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 110216,
+      "chanel": 444,
+      "rank": 8
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 24360,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 111718,
+      "chanel": 444,
+      "rank": 8
+    },
+    {
+      "id_game": "263490",
+      "name": "Rust",
+      "total_viewer": 30041,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 104847,
+      "chanel": 444,
+      "rank": 7
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2625c5cb3d98c6b701d68"
+  },
+  "id_game": "493959",
+  "name": "Red Dead Redemption 2",
+  "history": [
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 2494,
+      "date": {
+        "$date": {
+          "$numberLong": "1674735660000"
+        }
+      },
+      "joueur_acts": 46851,
+      "chanel": 444,
+      "rank": 18
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 2453,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736320000"
+        }
+      },
+      "joueur_acts": 47432,
+      "chanel": 444,
+      "rank": 19
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 2534,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736440000"
+        }
+      },
+      "joueur_acts": 47432,
+      "chanel": 444,
+      "rank": 19
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 2502,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736500000"
+        }
+      },
+      "joueur_acts": 47432,
+      "chanel": 444,
+      "rank": 19
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 2411,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736920000"
+        }
+      },
+      "joueur_acts": 48170,
+      "chanel": 444,
+      "rank": 19
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 2323,
+      "date": {
+        "$date": {
+          "$numberLong": "1674737580000"
+        }
+      },
+      "joueur_acts": 48649,
+      "chanel": 444,
+      "rank": 21
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 2310,
+      "date": {
+        "$date": {
+          "$numberLong": "1674738240000"
+        }
+      },
+      "joueur_acts": 49124,
+      "chanel": 444,
+      "rank": 21
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 1485,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 54957,
+      "chanel": 444,
+      "rank": 21
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 1559,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 55034,
+      "chanel": 444,
+      "rank": 21
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 1534,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 55170,
+      "chanel": 444,
+      "rank": 21
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 1594,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 55170,
+      "chanel": 444,
+      "rank": 21
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 1469,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 55054,
+      "chanel": 444,
+      "rank": 21
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 1900,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 54697,
+      "chanel": 444,
+      "rank": 21
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 3022,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 51518,
+      "chanel": 444,
+      "rank": 21
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 3076,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 51261,
+      "chanel": 444,
+      "rank": 21
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 2998,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 50144,
+      "chanel": 444,
+      "rank": 21
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 2962,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 49334,
+      "chanel": 444,
+      "rank": 21
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 2948,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 48700,
+      "chanel": 444,
+      "rank": 21
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 2869,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 48158,
+      "chanel": 444,
+      "rank": 20
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 2778,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 47334,
+      "chanel": 444,
+      "rank": 20
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 2753,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 46854,
+      "chanel": 444,
+      "rank": 21
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 2913,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 46387,
+      "chanel": 444,
+      "rank": 22
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 3293,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 46020,
+      "chanel": 444,
+      "rank": 23
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 2986,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 45253,
+      "chanel": 444,
+      "rank": 23
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 3233,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 44836,
+      "chanel": 444,
+      "rank": 23
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 3313,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 44211,
+      "chanel": 444,
+      "rank": 24
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 3536,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 43889,
+      "chanel": 444,
+      "rank": 24
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 3529,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 43574,
+      "chanel": 444,
+      "rank": 24
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 3669,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 43429,
+      "chanel": 444,
+      "rank": 24
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 3758,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 43104,
+      "chanel": 444,
+      "rank": 24
+    },
+    {
+      "id_game": "493959",
+      "name": "Red Dead Redemption 2",
+      "total_viewer": 5071,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 37170,
+      "chanel": 444,
+      "rank": 26
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2625c5cb3d98c6b701d6a"
+  },
+  "id_game": "508455",
+  "name": "Valheim",
+  "history": [
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 2143,
+      "date": {
+        "$date": {
+          "$numberLong": "1674735660000"
+        }
+      },
+      "joueur_acts": 25616,
+      "chanel": 238,
+      "rank": 36
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 2384,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736320000"
+        }
+      },
+      "joueur_acts": 26199,
+      "chanel": 238,
+      "rank": 36
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 2425,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736440000"
+        }
+      },
+      "joueur_acts": 26199,
+      "chanel": 238,
+      "rank": 36
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 2423,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736500000"
+        }
+      },
+      "joueur_acts": 26199,
+      "chanel": 238,
+      "rank": 36
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 2417,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736920000"
+        }
+      },
+      "joueur_acts": 26722,
+      "chanel": 238,
+      "rank": 36
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 2564,
+      "date": {
+        "$date": {
+          "$numberLong": "1674737580000"
+        }
+      },
+      "joueur_acts": 27257,
+      "chanel": 238,
+      "rank": 36
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 2583,
+      "date": {
+        "$date": {
+          "$numberLong": "1674738240000"
+        }
+      },
+      "joueur_acts": 27677,
+      "chanel": 238,
+      "rank": 36
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 2710,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 34847,
+      "chanel": 238,
+      "rank": 34
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 3857,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 35675,
+      "chanel": 238,
+      "rank": 31
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 6036,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 36320,
+      "chanel": 238,
+      "rank": 31
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 5631,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 37158,
+      "chanel": 238,
+      "rank": 31
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 6145,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 37832,
+      "chanel": 238,
+      "rank": 30
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 7753,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 38732,
+      "chanel": 238,
+      "rank": 28
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 10364,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 41816,
+      "chanel": 238,
+      "rank": 26
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 11039,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 41967,
+      "chanel": 238,
+      "rank": 26
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 11135,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 42191,
+      "chanel": 238,
+      "rank": 26
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 11668,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 42926,
+      "chanel": 238,
+      "rank": 26
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 12002,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 43499,
+      "chanel": 238,
+      "rank": 26
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 12030,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 44244,
+      "chanel": 238,
+      "rank": 26
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 12475,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 44891,
+      "chanel": 238,
+      "rank": 23
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 12772,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 45484,
+      "chanel": 238,
+      "rank": 23
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 12960,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 46184,
+      "chanel": 238,
+      "rank": 23
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 13070,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 46941,
+      "chanel": 238,
+      "rank": 22
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 13321,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 48029,
+      "chanel": 238,
+      "rank": 21
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 13128,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 48686,
+      "chanel": 238,
+      "rank": 20
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 13024,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 49366,
+      "chanel": 238,
+      "rank": 19
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 13241,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 50113,
+      "chanel": 238,
+      "rank": 19
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 13114,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 51129,
+      "chanel": 238,
+      "rank": 19
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 13304,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 51979,
+      "chanel": 238,
+      "rank": 19
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 13303,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 52866,
+      "chanel": 238,
+      "rank": 19
+    },
+    {
+      "id_game": "508455",
+      "name": "Valheim",
+      "total_viewer": 15507,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 55355,
+      "chanel": 238,
+      "rank": 16
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2625c5cb3d98c6b701d6c"
+  },
+  "id_game": "772421245",
+  "name": "NBA 2K23",
+  "history": [
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1662,
+      "date": {
+        "$date": {
+          "$numberLong": "1674735660000"
+        }
+      },
+      "joueur_acts": 19394,
+      "chanel": 805,
+      "rank": 47
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1587,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736320000"
+        }
+      },
+      "joueur_acts": 19623,
+      "chanel": 805,
+      "rank": 47
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1568,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736440000"
+        }
+      },
+      "joueur_acts": 19623,
+      "chanel": 805,
+      "rank": 47
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1554,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736500000"
+        }
+      },
+      "joueur_acts": 19623,
+      "chanel": 805,
+      "rank": 47
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1737,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736920000"
+        }
+      },
+      "joueur_acts": 19773,
+      "chanel": 805,
+      "rank": 47
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1778,
+      "date": {
+        "$date": {
+          "$numberLong": "1674737580000"
+        }
+      },
+      "joueur_acts": 20060,
+      "chanel": 805,
+      "rank": 47
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1840,
+      "date": {
+        "$date": {
+          "$numberLong": "1674738240000"
+        }
+      },
+      "joueur_acts": 20226,
+      "chanel": 805,
+      "rank": 47
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1384,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 23124,
+      "chanel": 805,
+      "rank": 47
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1377,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 23146,
+      "chanel": 805,
+      "rank": 47
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1332,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 23131,
+      "chanel": 805,
+      "rank": 47
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1332,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 23169,
+      "chanel": 805,
+      "rank": 48
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1332,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 23169,
+      "chanel": 805,
+      "rank": 49
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1332,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 23042,
+      "chanel": 805,
+      "rank": 50
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1332,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 21664,
+      "chanel": 805,
+      "rank": 53
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1332,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 21537,
+      "chanel": 805,
+      "rank": 53
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1332,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 21184,
+      "chanel": 805,
+      "rank": 53
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1332,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 20882,
+      "chanel": 805,
+      "rank": 51
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1332,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 20487,
+      "chanel": 805,
+      "rank": 51
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1773,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 20068,
+      "chanel": 805,
+      "rank": 51
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1773,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 19401,
+      "chanel": 805,
+      "rank": 56
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1805,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 18968,
+      "chanel": 805,
+      "rank": 57
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1805,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 18487,
+      "chanel": 805,
+      "rank": 57
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1805,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 18091,
+      "chanel": 805,
+      "rank": 59
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1805,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 17556,
+      "chanel": 805,
+      "rank": 63
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1805,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 17250,
+      "chanel": 805,
+      "rank": 66
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1805,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 16768,
+      "chanel": 805,
+      "rank": 66
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1805,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 16627,
+      "chanel": 805,
+      "rank": 68
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1805,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 16330,
+      "chanel": 805,
+      "rank": 70
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1781,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 16020,
+      "chanel": 805,
+      "rank": 73
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 1781,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 15818,
+      "chanel": 805,
+      "rank": 73
+    },
+    {
+      "id_game": "772421245",
+      "name": "NBA 2K23",
+      "total_viewer": 3329,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 13159,
+      "chanel": 805,
+      "rank": 75
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2625c5cb3d98c6b701d6e"
+  },
+  "id_game": "500188",
+  "name": "Hunt: Showdown",
+  "history": [
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 1442,
+      "date": {
+        "$date": {
+          "$numberLong": "1674735660000"
+        }
+      },
+      "joueur_acts": 12424,
+      "chanel": 246,
+      "rank": 69
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 1416,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736320000"
+        }
+      },
+      "joueur_acts": 12747,
+      "chanel": 246,
+      "rank": 68
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 1463,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736440000"
+        }
+      },
+      "joueur_acts": 12747,
+      "chanel": 246,
+      "rank": 68
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 1456,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736500000"
+        }
+      },
+      "joueur_acts": 12747,
+      "chanel": 246,
+      "rank": 68
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 1571,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736920000"
+        }
+      },
+      "joueur_acts": 13214,
+      "chanel": 246,
+      "rank": 66
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 1565,
+      "date": {
+        "$date": {
+          "$numberLong": "1674737580000"
+        }
+      },
+      "joueur_acts": 13692,
+      "chanel": 246,
+      "rank": 66
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 1624,
+      "date": {
+        "$date": {
+          "$numberLong": "1674738240000"
+        }
+      },
+      "joueur_acts": 14148,
+      "chanel": 246,
+      "rank": 65
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 3298,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 18620,
+      "chanel": 246,
+      "rank": 59
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 3339,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 18715,
+      "chanel": 246,
+      "rank": 61
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 3366,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 18928,
+      "chanel": 246,
+      "rank": 60
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 3438,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 19066,
+      "chanel": 246,
+      "rank": 61
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 2889,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 19193,
+      "chanel": 246,
+      "rank": 61
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 2950,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 19282,
+      "chanel": 246,
+      "rank": 61
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 3201,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 19488,
+      "chanel": 246,
+      "rank": 61
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 3473,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 19485,
+      "chanel": 246,
+      "rank": 61
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 3692,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 19290,
+      "chanel": 246,
+      "rank": 61
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 3797,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 19314,
+      "chanel": 246,
+      "rank": 60
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 3775,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 19379,
+      "chanel": 246,
+      "rank": 59
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 3940,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 19500,
+      "chanel": 246,
+      "rank": 57
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 3819,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 19689,
+      "chanel": 246,
+      "rank": 53
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 3971,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 19991,
+      "chanel": 246,
+      "rank": 51
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 3581,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 20384,
+      "chanel": 246,
+      "rank": 51
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 3971,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 20485,
+      "chanel": 246,
+      "rank": 51
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 4273,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 20955,
+      "chanel": 246,
+      "rank": 50
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 4201,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 21152,
+      "chanel": 246,
+      "rank": 50
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 3895,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 21351,
+      "chanel": 246,
+      "rank": 50
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 4250,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 21674,
+      "chanel": 246,
+      "rank": 48
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 4279,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 22031,
+      "chanel": 246,
+      "rank": 49
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 4389,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 22353,
+      "chanel": 246,
+      "rank": 49
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 3498,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 22596,
+      "chanel": 246,
+      "rank": 47
+    },
+    {
+      "id_game": "500188",
+      "name": "Hunt: Showdown",
+      "total_viewer": 3481,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 21411,
+      "chanel": 246,
+      "rank": 47
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2625c5cb3d98c6b701d70"
+  },
+  "id_game": "31339",
+  "name": "Project Zomboid",
+  "history": [
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 1383,
+      "date": {
+        "$date": {
+          "$numberLong": "1674735660000"
+        }
+      },
+      "joueur_acts": 26400,
+      "chanel": 165,
+      "rank": 34
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 1348,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736320000"
+        }
+      },
+      "joueur_acts": 27059,
+      "chanel": 165,
+      "rank": 35
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 1370,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736440000"
+        }
+      },
+      "joueur_acts": 27059,
+      "chanel": 165,
+      "rank": 35
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 1397,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736500000"
+        }
+      },
+      "joueur_acts": 27059,
+      "chanel": 165,
+      "rank": 35
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 1455,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736920000"
+        }
+      },
+      "joueur_acts": 27873,
+      "chanel": 165,
+      "rank": 35
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 1437,
+      "date": {
+        "$date": {
+          "$numberLong": "1674737580000"
+        }
+      },
+      "joueur_acts": 28521,
+      "chanel": 165,
+      "rank": 35
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 1013,
+      "date": {
+        "$date": {
+          "$numberLong": "1674738240000"
+        }
+      },
+      "joueur_acts": 29206,
+      "chanel": 165,
+      "rank": 34
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2602,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 36782,
+      "chanel": 165,
+      "rank": 30
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2570,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 37398,
+      "chanel": 165,
+      "rank": 30
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2688,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 37730,
+      "chanel": 165,
+      "rank": 29
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2611,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 38041,
+      "chanel": 165,
+      "rank": 29
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2627,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 38194,
+      "chanel": 165,
+      "rank": 28
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2632,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 38349,
+      "chanel": 165,
+      "rank": 29
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2915,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 37668,
+      "chanel": 165,
+      "rank": 30
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2857,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 37519,
+      "chanel": 165,
+      "rank": 30
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2969,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 37006,
+      "chanel": 165,
+      "rank": 30
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2443,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 36758,
+      "chanel": 165,
+      "rank": 30
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2443,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 36428,
+      "chanel": 165,
+      "rank": 31
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2443,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 36259,
+      "chanel": 165,
+      "rank": 31
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2443,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 35697,
+      "chanel": 165,
+      "rank": 32
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2443,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 35450,
+      "chanel": 165,
+      "rank": 32
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2443,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 35174,
+      "chanel": 165,
+      "rank": 33
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2443,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 35012,
+      "chanel": 165,
+      "rank": 34
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2443,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 34598,
+      "chanel": 165,
+      "rank": 33
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2443,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 34506,
+      "chanel": 165,
+      "rank": 34
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2443,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 34281,
+      "chanel": 165,
+      "rank": 34
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2443,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 34234,
+      "chanel": 165,
+      "rank": 34
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2198,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 34098,
+      "chanel": 165,
+      "rank": 34
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2198,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 33884,
+      "chanel": 165,
+      "rank": 34
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 2325,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 33856,
+      "chanel": 165,
+      "rank": 34
+    },
+    {
+      "id_game": "31339",
+      "name": "Project Zomboid",
+      "total_viewer": 3343,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 31627,
+      "chanel": 165,
+      "rank": 32
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2625c5cb3d98c6b701d72"
+  },
+  "id_game": "499003",
+  "name": "VRChat",
+  "history": [
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 1391,
+      "date": {
+        "$date": {
+          "$numberLong": "1674735660000"
+        }
+      },
+      "joueur_acts": 15050,
+      "chanel": 101,
+      "rank": 58
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 1391,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736320000"
+        }
+      },
+      "joueur_acts": 14923,
+      "chanel": 101,
+      "rank": 60
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 1391,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736440000"
+        }
+      },
+      "joueur_acts": 14923,
+      "chanel": 101,
+      "rank": 60
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 1391,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736500000"
+        }
+      },
+      "joueur_acts": 14923,
+      "chanel": 101,
+      "rank": 60
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 1391,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736920000"
+        }
+      },
+      "joueur_acts": 14966,
+      "chanel": 101,
+      "rank": 60
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 1263,
+      "date": {
+        "$date": {
+          "$numberLong": "1674737580000"
+        }
+      },
+      "joueur_acts": 15075,
+      "chanel": 101,
+      "rank": 61
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 1263,
+      "date": {
+        "$date": {
+          "$numberLong": "1674738240000"
+        }
+      },
+      "joueur_acts": 15311,
+      "chanel": 101,
+      "rank": 61
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 1263,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 18429,
+      "chanel": 101,
+      "rank": 60
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 1263,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 18729,
+      "chanel": 101,
+      "rank": 60
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 1263,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 18879,
+      "chanel": 101,
+      "rank": 61
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 1263,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 19159,
+      "chanel": 101,
+      "rank": 60
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 1912,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 19234,
+      "chanel": 101,
+      "rank": 60
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 2091,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 19314,
+      "chanel": 101,
+      "rank": 60
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 2091,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 18901,
+      "chanel": 101,
+      "rank": 63
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 2091,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 18756,
+      "chanel": 101,
+      "rank": 63
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 2091,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 18506,
+      "chanel": 101,
+      "rank": 63
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 2091,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 18387,
+      "chanel": 101,
+      "rank": 63
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 2091,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 18226,
+      "chanel": 101,
+      "rank": 62
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 2091,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 18016,
+      "chanel": 101,
+      "rank": 63
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 2091,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 17910,
+      "chanel": 101,
+      "rank": 63
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 2091,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 17840,
+      "chanel": 101,
+      "rank": 62
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 2091,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 17699,
+      "chanel": 101,
+      "rank": 63
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 2091,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 17649,
+      "chanel": 101,
+      "rank": 62
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 2091,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 17589,
+      "chanel": 101,
+      "rank": 62
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 2091,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 17534,
+      "chanel": 101,
+      "rank": 62
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 2091,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 17467,
+      "chanel": 101,
+      "rank": 63
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 2517,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 17432,
+      "chanel": 101,
+      "rank": 63
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 5727,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 17390,
+      "chanel": 101,
+      "rank": 64
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 5851,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 17398,
+      "chanel": 101,
+      "rank": 64
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 6159,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 17488,
+      "chanel": 101,
+      "rank": 64
+    },
+    {
+      "id_game": "499003",
+      "name": "VRChat",
+      "total_viewer": 3873,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 18771,
+      "chanel": 101,
+      "rank": 51
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2625c5cb3d98c6b701d74"
+  },
+  "id_game": "493597",
+  "name": "New World",
+  "history": [
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 1329,
+      "date": {
+        "$date": {
+          "$numberLong": "1674735660000"
+        }
+      },
+      "joueur_acts": 17052,
+      "chanel": 121,
+      "rank": 52
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 1342,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736320000"
+        }
+      },
+      "joueur_acts": 17166,
+      "chanel": 121,
+      "rank": 52
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 1264,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736440000"
+        }
+      },
+      "joueur_acts": 17166,
+      "chanel": 121,
+      "rank": 52
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 1209,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736500000"
+        }
+      },
+      "joueur_acts": 17166,
+      "chanel": 121,
+      "rank": 52
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 1209,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736920000"
+        }
+      },
+      "joueur_acts": 17305,
+      "chanel": 121,
+      "rank": 53
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 1209,
+      "date": {
+        "$date": {
+          "$numberLong": "1674737580000"
+        }
+      },
+      "joueur_acts": 17482,
+      "chanel": 121,
+      "rank": 53
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 1209,
+      "date": {
+        "$date": {
+          "$numberLong": "1674738240000"
+        }
+      },
+      "joueur_acts": 17668,
+      "chanel": 121,
+      "rank": 53
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 2542,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 20333,
+      "chanel": 121,
+      "rank": 53
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 2516,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 20854,
+      "chanel": 121,
+      "rank": 53
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 2699,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 21085,
+      "chanel": 121,
+      "rank": 52
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 2909,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 21425,
+      "chanel": 121,
+      "rank": 52
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 3012,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 21596,
+      "chanel": 121,
+      "rank": 52
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 3123,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 22224,
+      "chanel": 121,
+      "rank": 51
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 3054,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 24042,
+      "chanel": 121,
+      "rank": 44
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 3149,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 24157,
+      "chanel": 121,
+      "rank": 43
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 3305,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 24438,
+      "chanel": 121,
+      "rank": 44
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 3163,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 24971,
+      "chanel": 121,
+      "rank": 43
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 3231,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 25307,
+      "chanel": 121,
+      "rank": 43
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 3369,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 25668,
+      "chanel": 121,
+      "rank": 41
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 3456,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 26082,
+      "chanel": 121,
+      "rank": 41
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 4358,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 26243,
+      "chanel": 121,
+      "rank": 41
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 2794,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 26503,
+      "chanel": 121,
+      "rank": 41
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 2887,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 26746,
+      "chanel": 121,
+      "rank": 40
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 2935,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 27193,
+      "chanel": 121,
+      "rank": 40
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 3182,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 27541,
+      "chanel": 121,
+      "rank": 40
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 5314,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 27761,
+      "chanel": 121,
+      "rank": 40
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 3302,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 28092,
+      "chanel": 121,
+      "rank": 41
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 3409,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 28455,
+      "chanel": 121,
+      "rank": 39
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 3544,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 28787,
+      "chanel": 121,
+      "rank": 39
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 3432,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 29185,
+      "chanel": 121,
+      "rank": 39
+    },
+    {
+      "id_game": "493597",
+      "name": "New World",
+      "total_viewer": 3876,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 28504,
+      "chanel": 121,
+      "rank": 35
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2625c5cb3d98c6b701d76"
+  },
+  "id_game": "271304",
+  "name": "7 Days to Die",
+  "history": [
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1147,
+      "date": {
+        "$date": {
+          "$numberLong": "1674735660000"
+        }
+      },
+      "joueur_acts": 21040,
+      "chanel": 185,
+      "rank": 43
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1150,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736320000"
+        }
+      },
+      "joueur_acts": 21606,
+      "chanel": 185,
+      "rank": 43
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1142,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736440000"
+        }
+      },
+      "joueur_acts": 21606,
+      "chanel": 185,
+      "rank": 43
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1138,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736500000"
+        }
+      },
+      "joueur_acts": 21606,
+      "chanel": 185,
+      "rank": 43
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1171,
+      "date": {
+        "$date": {
+          "$numberLong": "1674736920000"
+        }
+      },
+      "joueur_acts": 22193,
+      "chanel": 185,
+      "rank": 43
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1171,
+      "date": {
+        "$date": {
+          "$numberLong": "1674737580000"
+        }
+      },
+      "joueur_acts": 22633,
+      "chanel": 185,
+      "rank": 43
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1183,
+      "date": {
+        "$date": {
+          "$numberLong": "1674738240000"
+        }
+      },
+      "joueur_acts": 23140,
+      "chanel": 185,
+      "rank": 43
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1156,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 28132,
+      "chanel": 185,
+      "rank": 39
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1156,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 28285,
+      "chanel": 185,
+      "rank": 39
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 28418,
+      "chanel": 185,
+      "rank": 39
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 28568,
+      "chanel": 185,
+      "rank": 39
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 28678,
+      "chanel": 185,
+      "rank": 40
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 28784,
+      "chanel": 185,
+      "rank": 40
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 28420,
+      "chanel": 185,
+      "rank": 38
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 28370,
+      "chanel": 185,
+      "rank": 38
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 28135,
+      "chanel": 185,
+      "rank": 37
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 27964,
+      "chanel": 185,
+      "rank": 38
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 27812,
+      "chanel": 185,
+      "rank": 38
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 27679,
+      "chanel": 185,
+      "rank": 39
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 27631,
+      "chanel": 185,
+      "rank": 39
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 27581,
+      "chanel": 185,
+      "rank": 39
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 27692,
+      "chanel": 185,
+      "rank": 38
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 27758,
+      "chanel": 185,
+      "rank": 38
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 27748,
+      "chanel": 185,
+      "rank": 39
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 27777,
+      "chanel": 185,
+      "rank": 39
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 27902,
+      "chanel": 185,
+      "rank": 39
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 28161,
+      "chanel": 185,
+      "rank": 39
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 28326,
+      "chanel": 185,
+      "rank": 40
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 28622,
+      "chanel": 185,
+      "rank": 40
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 28709,
+      "chanel": 185,
+      "rank": 40
+    },
+    {
+      "id_game": "271304",
+      "name": "7 Days to Die",
+      "total_viewer": 1058,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 25810,
+      "chanel": 185,
+      "rank": 40
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d287db5cb3d98c6b704e70"
+  },
+  "id_game": "518184",
+  "name": "Phasmophobia",
+  "history": [
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1531,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745200000"
+        }
+      },
+      "joueur_acts": 11359,
+      "chanel": 284,
+      "rank": 88
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1679,
+      "date": {
+        "$date": {
+          "$numberLong": "1674745920000"
+        }
+      },
+      "joueur_acts": 11627,
+      "chanel": 284,
+      "rank": 88
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1544,
+      "date": {
+        "$date": {
+          "$numberLong": "1674746580000"
+        }
+      },
+      "joueur_acts": 11915,
+      "chanel": 284,
+      "rank": 87
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1680,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747240000"
+        }
+      },
+      "joueur_acts": 12241,
+      "chanel": 284,
+      "rank": 84
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1822,
+      "date": {
+        "$date": {
+          "$numberLong": "1674747900000"
+        }
+      },
+      "joueur_acts": 12443,
+      "chanel": 284,
+      "rank": 84
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1827,
+      "date": {
+        "$date": {
+          "$numberLong": "1674748620000"
+        }
+      },
+      "joueur_acts": 12716,
+      "chanel": 284,
+      "rank": 84
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1578,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 13259,
+      "chanel": 284,
+      "rank": 83
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1578,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 13334,
+      "chanel": 284,
+      "rank": 81
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1578,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 13509,
+      "chanel": 284,
+      "rank": 81
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1578,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 13653,
+      "chanel": 284,
+      "rank": 81
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1578,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 13908,
+      "chanel": 284,
+      "rank": 81
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1578,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 14159,
+      "chanel": 284,
+      "rank": 78
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1578,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 14273,
+      "chanel": 284,
+      "rank": 79
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1578,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 14469,
+      "chanel": 284,
+      "rank": 79
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1578,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 14777,
+      "chanel": 284,
+      "rank": 78
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1578,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 14996,
+      "chanel": 284,
+      "rank": 76
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1578,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 15453,
+      "chanel": 284,
+      "rank": 73
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1578,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 15637,
+      "chanel": 284,
+      "rank": 71
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1578,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 15756,
+      "chanel": 284,
+      "rank": 71
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1578,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 16036,
+      "chanel": 284,
+      "rank": 70
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1578,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 16338,
+      "chanel": 284,
+      "rank": 69
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1578,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 16795,
+      "chanel": 284,
+      "rank": 69
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 1578,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 17275,
+      "chanel": 284,
+      "rank": 65
+    },
+    {
+      "id_game": "518184",
+      "name": "Phasmophobia",
+      "total_viewer": 3132,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 16428,
+      "chanel": 284,
+      "rank": 63
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2a2ca5cb3d98c6b707a74"
+  },
+  "id_game": "490377",
+  "name": "Sea of Thieves",
+  "history": [
+    {
+      "id_game": "490377",
+      "name": "Sea of Thieves",
+      "total_viewer": 3245,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 10906,
+      "chanel": 297,
+      "rank": 94
+    },
+    {
+      "id_game": "490377",
+      "name": "Sea of Thieves",
+      "total_viewer": 3364,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 10958,
+      "chanel": 297,
+      "rank": 95
+    },
+    {
+      "id_game": "490377",
+      "name": "Sea of Thieves",
+      "total_viewer": 3766,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 11011,
+      "chanel": 297,
+      "rank": 94
+    },
+    {
+      "id_game": "490377",
+      "name": "Sea of Thieves",
+      "total_viewer": 3880,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 11164,
+      "chanel": 297,
+      "rank": 93
+    },
+    {
+      "id_game": "490377",
+      "name": "Sea of Thieves",
+      "total_viewer": 3838,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 11278,
+      "chanel": 297,
+      "rank": 92
+    },
+    {
+      "id_game": "490377",
+      "name": "Sea of Thieves",
+      "total_viewer": 3880,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 11396,
+      "chanel": 297,
+      "rank": 91
+    },
+    {
+      "id_game": "490377",
+      "name": "Sea of Thieves",
+      "total_viewer": 4079,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 11582,
+      "chanel": 297,
+      "rank": 90
+    },
+    {
+      "id_game": "490377",
+      "name": "Sea of Thieves",
+      "total_viewer": 4169,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 11754,
+      "chanel": 297,
+      "rank": 89
+    },
+    {
+      "id_game": "490377",
+      "name": "Sea of Thieves",
+      "total_viewer": 4382,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 11814,
+      "chanel": 297,
+      "rank": 88
+    },
+    {
+      "id_game": "490377",
+      "name": "Sea of Thieves",
+      "total_viewer": 4515,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 11956,
+      "chanel": 297,
+      "rank": 88
+    },
+    {
+      "id_game": "490377",
+      "name": "Sea of Thieves",
+      "total_viewer": 4448,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 12150,
+      "chanel": 297,
+      "rank": 88
+    },
+    {
+      "id_game": "490377",
+      "name": "Sea of Thieves",
+      "total_viewer": 4552,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 12192,
+      "chanel": 297,
+      "rank": 88
+    },
+    {
+      "id_game": "490377",
+      "name": "Sea of Thieves",
+      "total_viewer": 4503,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 12220,
+      "chanel": 297,
+      "rank": 87
+    },
+    {
+      "id_game": "490377",
+      "name": "Sea of Thieves",
+      "total_viewer": 4487,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 12485,
+      "chanel": 297,
+      "rank": 86
+    },
+    {
+      "id_game": "490377",
+      "name": "Sea of Thieves",
+      "total_viewer": 4554,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 12710,
+      "chanel": 297,
+      "rank": 85
+    },
+    {
+      "id_game": "490377",
+      "name": "Sea of Thieves",
+      "total_viewer": 4677,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 12768,
+      "chanel": 297,
+      "rank": 85
+    },
+    {
+      "id_game": "490377",
+      "name": "Sea of Thieves",
+      "total_viewer": 5062,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 12844,
+      "chanel": 297,
+      "rank": 84
+    },
+    {
+      "id_game": "490377",
+      "name": "Sea of Thieves",
+      "total_viewer": 3503,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 11583,
+      "chanel": 297,
+      "rank": 78
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2a2ca5cb3d98c6b707a7d"
+  },
+  "id_game": "7022",
+  "name": "The Forest",
+  "history": [
+    {
+      "id_game": "7022",
+      "name": "The Forest",
+      "total_viewer": 7082,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752100000"
+        }
+      },
+      "joueur_acts": 16003,
+      "chanel": 155,
+      "rank": 73
+    },
+    {
+      "id_game": "7022",
+      "name": "The Forest",
+      "total_viewer": 7014,
+      "date": {
+        "$date": {
+          "$numberLong": "1674752760000"
+        }
+      },
+      "joueur_acts": 15932,
+      "chanel": 155,
+      "rank": 74
+    },
+    {
+      "id_game": "7022",
+      "name": "The Forest",
+      "total_viewer": 6894,
+      "date": {
+        "$date": {
+          "$numberLong": "1674753420000"
+        }
+      },
+      "joueur_acts": 15931,
+      "chanel": 155,
+      "rank": 74
+    },
+    {
+      "id_game": "7022",
+      "name": "The Forest",
+      "total_viewer": 6992,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754080000"
+        }
+      },
+      "joueur_acts": 15945,
+      "chanel": 155,
+      "rank": 73
+    },
+    {
+      "id_game": "7022",
+      "name": "The Forest",
+      "total_viewer": 6769,
+      "date": {
+        "$date": {
+          "$numberLong": "1674754740000"
+        }
+      },
+      "joueur_acts": 15911,
+      "chanel": 155,
+      "rank": 73
+    },
+    {
+      "id_game": "7022",
+      "name": "The Forest",
+      "total_viewer": 6742,
+      "date": {
+        "$date": {
+          "$numberLong": "1674755400000"
+        }
+      },
+      "joueur_acts": 15911,
+      "chanel": 155,
+      "rank": 73
+    },
+    {
+      "id_game": "7022",
+      "name": "The Forest",
+      "total_viewer": 6719,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756060000"
+        }
+      },
+      "joueur_acts": 16005,
+      "chanel": 155,
+      "rank": 73
+    },
+    {
+      "id_game": "7022",
+      "name": "The Forest",
+      "total_viewer": 6658,
+      "date": {
+        "$date": {
+          "$numberLong": "1674756720000"
+        }
+      },
+      "joueur_acts": 15990,
+      "chanel": 155,
+      "rank": 72
+    },
+    {
+      "id_game": "7022",
+      "name": "The Forest",
+      "total_viewer": 6555,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757320000"
+        }
+      },
+      "joueur_acts": 15909,
+      "chanel": 155,
+      "rank": 71
+    },
+    {
+      "id_game": "7022",
+      "name": "The Forest",
+      "total_viewer": 6487,
+      "date": {
+        "$date": {
+          "$numberLong": "1674757980000"
+        }
+      },
+      "joueur_acts": 16078,
+      "chanel": 155,
+      "rank": 70
+    },
+    {
+      "id_game": "7022",
+      "name": "The Forest",
+      "total_viewer": 5897,
+      "date": {
+        "$date": {
+          "$numberLong": "1674758640000"
+        }
+      },
+      "joueur_acts": 16250,
+      "chanel": 155,
+      "rank": 69
+    },
+    {
+      "id_game": "7022",
+      "name": "The Forest",
+      "total_viewer": 5832,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759300000"
+        }
+      },
+      "joueur_acts": 16261,
+      "chanel": 155,
+      "rank": 69
+    },
+    {
+      "id_game": "7022",
+      "name": "The Forest",
+      "total_viewer": 5597,
+      "date": {
+        "$date": {
+          "$numberLong": "1674759960000"
+        }
+      },
+      "joueur_acts": 16305,
+      "chanel": 155,
+      "rank": 69
+    },
+    {
+      "id_game": "7022",
+      "name": "The Forest",
+      "total_viewer": 5597,
+      "date": {
+        "$date": {
+          "$numberLong": "1674760620000"
+        }
+      },
+      "joueur_acts": 16551,
+      "chanel": 155,
+      "rank": 69
+    },
+    {
+      "id_game": "7022",
+      "name": "The Forest",
+      "total_viewer": 5597,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761280000"
+        }
+      },
+      "joueur_acts": 16756,
+      "chanel": 155,
+      "rank": 68
+    },
+    {
+      "id_game": "7022",
+      "name": "The Forest",
+      "total_viewer": 5597,
+      "date": {
+        "$date": {
+          "$numberLong": "1674761880000"
+        }
+      },
+      "joueur_acts": 16938,
+      "chanel": 155,
+      "rank": 67
+    },
+    {
+      "id_game": "7022",
+      "name": "The Forest",
+      "total_viewer": 5597,
+      "date": {
+        "$date": {
+          "$numberLong": "1674762540000"
+        }
+      },
+      "joueur_acts": 17081,
+      "chanel": 155,
+      "rank": 67
+    },
+    {
+      "id_game": "7022",
+      "name": "The Forest",
+      "total_viewer": 5597,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 14580,
+      "chanel": 155,
+      "rank": 69
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2f4775cb3d98c6b70c86b"
+  },
+  "id_game": "510218",
+  "name": "Among Us",
+  "history": [
+    {
+      "id_game": "510218",
+      "name": "Among Us",
+      "total_viewer": 41753,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 7806,
+      "chanel": 111,
+      "rank": 99
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d2f4775cb3d98c6b70c86d"
+  },
+  "id_game": "1089438810",
+  "name": "Among Us",
+  "history": [
+    {
+      "id_game": "1089438810",
+      "name": "Among Us",
+      "total_viewer": 10047,
+      "date": {
+        "$date": {
+          "$numberLong": "1674773100000"
+        }
+      },
+      "joueur_acts": 7806,
+      "chanel": 111,
+      "rank": 99
+    }
+  ]
+}]
