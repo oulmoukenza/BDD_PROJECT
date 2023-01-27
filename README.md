@@ -104,4 +104,6 @@ Pour l’interface de notre projet on a utilisé streamlit, cette interface web 
   Ce plot est une représentation graphique qui utilise les données de l'historique d’un jeux données pour afficher l'évolution du nombre de joueurs actifs et du nombre de spectateurs sur les plateformes de streaming en fonction de la date. Il permet de visualiser comment ces deux métriques ont évolué au fil du temps et de comparer les tendances entre elles. Pour comprendre comment l'intérêt des joueurs et des spectateurs évolue en fonction des dates
 
  ### Conclusion : 
- 
+Après analyse des données, nous pouvons conclure qu'il n'y a pas nécessairement de corrélation entre le nombre de joueurs sur Steam et le nombre de vues sur Twitch. Cependant, nous pouvons voir que les mêmes grands jeux dominent le marché et représentent à quatre ou cinq 50 % du marché. 
+De plus, nous avons observé une corrélation très importante entre le nombre de streams sur Twitch et le nombre de joueurs actuels. 
+Enfin, en fonction du public visé par un jeu, l'historique sera totalement différent. Par exemple, un jeu plus axé sur la jeunesse sera plus dépendant des horaires (sortie scolaire, week-end...) qu'un jeu destiné à un public plus âgé.
